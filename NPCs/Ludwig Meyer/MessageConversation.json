@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 0,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -638370673,
+            "Text": "Hello, I'm after 2x Granddaddy Gold. I can pay <color=#46CB4F>$195</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 444990467,
+            "Text": "How about 2x Granddaddy Gold for $200?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1884394174,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 373172795,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -972525061,
+            "Text": "Great, I'll meet you <b>at the basketball court</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1554822313,
+            "Text": "You got 2x Granddaddy Gold? I'll pay <color=#46CB4F>$195</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 478897590,
+            "Text": "How about 1x Granddaddy Gold for $95?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1815194761,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 2069772117,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1694050518,
+            "Text": "Great, I'll meet you <b>at the north waterfront</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

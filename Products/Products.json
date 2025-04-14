@@ -1,0 +1,174 @@
+{
+    "DataType": "ProductManagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "DiscoveredProducts": [
+        "ogkush",
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple",
+        "aspendeath",
+        "californiacookies",
+        "darkbud",
+        "fatcum",
+        "fruitycake",
+        "fruitygold",
+        "granddaddygold",
+        "miraclepiss",
+        "pinkthunderfuck",
+        "sexygold",
+        "ultraslime",
+        "weddingass"
+    ],
+    "ListedProducts": [],
+    "ActiveMixOperation": {
+        "ProductID": "",
+        "IngredientID": ""
+    },
+    "IsMixComplete": false,
+    "MixRecipes": [
+        {
+            "Product": "viagra",
+            "Mixer": "sourdiesel",
+            "Output": "weddingass"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "sourdiesel",
+            "Output": "ultraslime"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "greencrack",
+            "Output": "aspendeath"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "greencrack",
+            "Output": "darkbud"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "greencrack",
+            "Output": "greencrack"
+        },
+        {
+            "Product": "mouthwash",
+            "Mixer": "greencrack",
+            "Output": "fatcum"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "greencrack",
+            "Output": "fruitycake"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "fruitycake",
+            "Output": "miraclepiss"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "greencrack",
+            "Output": "pinkthunderfuck"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "fruitycake",
+            "Output": "granddaddygold"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "granddaddypurple",
+            "Output": "sexygold"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "weddingass",
+            "Output": "fruitygold"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "sourdiesel",
+            "Output": "californiacookies"
+        }
+    ],
+    "ProductPrices": [
+        {
+            "String": "ogkush",
+            "Int": 45
+        },
+        {
+            "String": "sourdiesel",
+            "Int": 50
+        },
+        {
+            "String": "greencrack",
+            "Int": 50
+        },
+        {
+            "String": "granddaddypurple",
+            "Int": 50
+        },
+        {
+            "String": "meth",
+            "Int": 70
+        },
+        {
+            "String": "cocaine",
+            "Int": 150
+        },
+        {
+            "String": "aspendeath",
+            "Int": 70
+        },
+        {
+            "String": "californiacookies",
+            "Int": 49
+        },
+        {
+            "String": "darkbud",
+            "Int": 43
+        },
+        {
+            "String": "fatcum",
+            "Int": 53
+        },
+        {
+            "String": "fruitycake",
+            "Int": 57
+        },
+        {
+            "String": "fruitygold",
+            "Int": 65
+        },
+        {
+            "String": "granddaddygold",
+            "Int": 80
+        },
+        {
+            "String": "miraclepiss",
+            "Int": 66
+        },
+        {
+            "String": "pinkthunderfuck",
+            "Int": 52
+        },
+        {
+            "String": "sexygold",
+            "Int": 60
+        },
+        {
+            "String": "ultraslime",
+            "Int": 55
+        },
+        {
+            "String": "weddingass",
+            "Int": 60
+        }
+    ],
+    "FavouritedProducts": [
+        "granddaddypurple",
+        "greencrack"
+    ]
+}

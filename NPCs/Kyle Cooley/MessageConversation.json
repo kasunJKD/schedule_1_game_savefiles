@@ -1,0 +1,59 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 15,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 2036299340,
+            "Text": "Ay bro you got 4x OG Kush? I'll pay <color=#46CB4F>$190</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1464452627,
+            "Text": "How about 4x OG Kush for $200?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2000392172,
+            "Text": "Alright dude. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -350152082,
+            "Text": "Afternoon",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1795915403,
+            "Text": "Sick as, I'll meet you <b>next to Bud's bar</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -367434993,
+            "Text": "Hey dog, I need 4x OG Kush. I'll pay <color=#46CB4F>$250</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1408406798,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -255367557,
+            "Text": "Cheers bro, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}
