@@ -7,62 +7,62 @@
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": -1431239739,
-            "Text": "Hey, can I get 1x Granddaddy Gold? I'll pay <color=#46CB4F>$85</color>",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1498816280,
-            "Text": "How about 1x Granddaddy Gold for $90?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -559238051,
-            "Text": "Alright then. What time?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1229678859,
-            "Text": "Afternoon",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 1303026944,
-            "Text": "Great, I'll meet you <b>at the basketball court</b> between 12:00 PM and 6:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1967299007,
-            "Text": "Hey, can I get 1x Granddaddy Gold? I'll pay <color=#46CB4F>$85</color>",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -420064093,
-            "Text": "How about 1x Granddaddy Gold for $100?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1776687690,
-            "Text": "I guess that's fine. When?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1122817577,
-            "Text": "Afternoon",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
             "MessageID": 1560429358,
             "Text": "Great, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2051570132,
+            "Text": "Hey, if you got 2x Granddaddy Gold I'll pay <color=#46CB4F>$175</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 721922614,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1111778737,
+            "Text": "Great, I'll meet you <b>at the skatepark</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 293679791,
+            "Text": "Hey, if you got 2x Granddaddy Gold I'll pay <color=#46CB4F>$180</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -869182048,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1324979222,
+            "Text": "Great, I'll meet you <b>at the skatepark</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1230266253,
+            "Text": "Hello, I'm after 2x Granddaddy Gold. I can pay <color=#46CB4F>$180</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -2103462551,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -719752192,
+            "Text": "Great, I'll meet you <b>at the north waterfront</b> between 12:00 PM and 6:00 PM.",
             "EndOfChain": true
         }
     ],

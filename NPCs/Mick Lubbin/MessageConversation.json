@@ -2,25 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 17,
+    "ConversationIndex": 7,
     "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": -841741464,
-            "Text": "You got 2x OG Kush? I'll pay <color=#46CB4F>$70</color> for it",
+            "MessageID": -1385776696,
+            "Text": "Great, I'll meet you <b>in front of the motel</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -610145307,
+            "Text": "Hey, can I get 2x Granddaddy Gold? I'll pay <color=#46CB4F>$170</color>",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -1069177180,
+            "MessageID": 543501927,
             "Text": "Sure thing",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1385776696,
-            "Text": "Great, I'll meet you <b>in front of the motel</b> between 6:00 PM and 12:00 PM.",
+            "MessageID": 1675166567,
+            "Text": "Great, I'll meet you <b>at the skatepark</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1906779845,
+            "Text": "Hey, I need 4x Green Crack. I'll pay <color=#46CB4F>$220</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 817785528,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1307857297,
+            "Text": "Great, I'll meet you <b>behind Thompson construction and demolition</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1744679543,
+            "Text": "Hey, if you got 3x Granddaddy Gold I'll pay <color=#46CB4F>$265</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1960985300,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2052666359,
+            "Text": "Great, I'll meet you <b>behind Thompson construction and demolition</b> between 6:00 AM and 12:00 PM.",
             "EndOfChain": true
         }
     ],

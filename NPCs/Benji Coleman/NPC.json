@@ -4,16 +4,7 @@
     "GameVersion": "0.3.4f4",
     "ID": "benji_coleman",
     "Recruited": true,
-    "AssignedCustomerIDs": [
-        "kyle_cooley",
-        "chloe_bowers",
-        "jessi_waters",
-        "austin_steiner",
-        "geraldine_poon",
-        "donna_martin",
-        "kathy_henderson",
-        "mick_lubbin"
-    ],
+    "AssignedCustomerIDs": [],
     "ActiveContractGUIDs": [],
     "Cash": 0.0,
     "OverflowItems": {

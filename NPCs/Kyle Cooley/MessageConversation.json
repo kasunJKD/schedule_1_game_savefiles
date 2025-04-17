@@ -7,30 +7,6 @@
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": 2036299340,
-            "Text": "Ay bro you got 4x OG Kush? I'll pay <color=#46CB4F>$190</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1464452627,
-            "Text": "How about 4x OG Kush for $200?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -2000392172,
-            "Text": "Alright dude. What time?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -350152082,
-            "Text": "Afternoon",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
             "MessageID": 1795915403,
             "Text": "Sick as, I'll meet you <b>next to Bud's bar</b> between 12:00 PM and 6:00 PM.",
             "EndOfChain": true
@@ -51,6 +27,42 @@
             "Sender": 1,
             "MessageID": -255367557,
             "Text": "Cheers bro, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1543607727,
+            "Text": "Ay bro you got 5x Green Crack? I'll pay <color=#46CB4F>$305</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 773288501,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1562332858,
+            "Text": "Cheers bro, I'll meet you <b>behind the shipping containers near Sauerkraut Supreme</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 146456091,
+            "Text": "Ay bro you got 3x Granddaddy Gold? I'll pay <color=#46CB4F>$290</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 825539840,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1443593192,
+            "Text": "Cheers bro, I'll meet you <b>next to Bud's bar</b> between 12:00 PM and 6:00 PM.",
             "EndOfChain": true
         }
     ],

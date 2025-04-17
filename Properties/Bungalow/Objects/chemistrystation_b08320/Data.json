@@ -1,0 +1,36 @@
+{
+    "DataType": "ChemistryStationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "b0832034-5253-4155-9166-69f8b28571b8",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"chemistrystation\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "890b4b1a-139d-459d-86fe-78bc90f3adc6",
+    "OriginCoordinate": {
+        "x": 0.0,
+        "y": 7.0
+    },
+    "Rotation": 90,
+    "InputContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"phosphorus\",\"Quantity\":2}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"acid\",\"Quantity\":2}",
+            "{\"DataType\":\"QualityItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"lowqualitypseudo\",\"Quantity\":1,\"Quality\":\"Poor\"}"
+        ]
+    },
+    "OutputContents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}"
+        ]
+    },
+    "CurrentRecipeID": "1xliquidmeth",
+    "ProductQuality": 1,
+    "StartLiquidColor": {
+        "r": 0.6800000071525574,
+        "g": 0.4300000071525574,
+        "b": 0.20000000298023225,
+        "a": 0.9900000095367432
+    },
+    "LiquidLevel": 0.5217640995979309,
+    "CurrentTime": 165
+}

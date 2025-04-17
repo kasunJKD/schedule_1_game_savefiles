@@ -4,7 +4,6 @@
     "GameVersion": "0.3.4f4",
     "GUID": "a3e27b1d-3d03-41a6-babd-b93ecce0143c",
     "GeneratedItems": [
-        "cdeb3be4-f385-49f6-ada1-c0217b69d659",
         "9b05ae3d-81fb-4ab9-bcb4-8868b55db1cd",
         "e2b74f44-0f2b-439f-bed2-30f7127aa5d1",
         "4335e479-4ea2-4221-85da-aaba845b429d",
@@ -179,6 +178,7 @@
         "e2f90c00-decb-4626-9af2-1b38ce73b1a9",
         "af41dd19-5ce9-440c-9b57-5a1f8246bb7f",
         "b9750561-abb1-4ffd-846f-3427ac3eaaca",
-        "11e14b90-7a1a-4a47-af17-c63e99b088b2"
+        "11e14b90-7a1a-4a47-af17-c63e99b088b2",
+        "803cd4ba-5fc4-4dda-be44-5dc219eb2ac5"
     ]
 }

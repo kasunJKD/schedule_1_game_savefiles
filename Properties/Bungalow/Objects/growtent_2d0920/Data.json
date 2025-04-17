@@ -20,19 +20,19 @@
         "DataType": "PlantData",
         "DataVersion": 0,
         "GameVersion": "0.3.4f4",
-        "SeedID": "sourdieselseed",
+        "SeedID": "greencrackseed",
         "GrowthProgress": 1.0,
         "YieldLevel": 1.0,
         "QualityLevel": 0.5,
         "ActiveBuds": [
-            2,
-            6,
+            0,
+            13,
+            5,
+            10,
             7,
             9,
-            10,
             11,
-            13,
-            14
+            3
         ]
     }
 }

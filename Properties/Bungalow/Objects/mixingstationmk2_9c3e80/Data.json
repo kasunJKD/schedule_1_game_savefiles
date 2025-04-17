@@ -27,10 +27,10 @@
         ]
     },
     "CurrentMixOperation": {
-        "ProductID": "",
-        "ProductQuality": 0,
-        "IngredientID": "",
-        "Quantity": 0
+        "ProductID": "meth",
+        "ProductQuality": 1,
+        "IngredientID": "viagra",
+        "Quantity": 10
     },
-    "CurrentMixTime": 0
+    "CurrentMixTime": 8
 }

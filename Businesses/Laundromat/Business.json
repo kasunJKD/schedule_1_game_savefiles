@@ -3,7 +3,7 @@
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
     "PropertyCode": "laundromat",
-    "IsOwned": false,
+    "IsOwned": true,
     "SwitchStates": [],
     "ToggleableStates": [],
     "LaunderingOperations": []

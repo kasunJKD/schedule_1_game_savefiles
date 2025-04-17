@@ -2,43 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 16,
+    "ConversationIndex": 6,
     "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": -1032082124,
-            "Text": "I'm after 3x OG Kush. I can pay <color=#46CB4F>$120</color> for it Deal??",
+            "MessageID": -160757516,
+            "Text": "Need me 4x Granddaddy Gold! I'll pay <color=#46CB4F>$385</color> yeah??",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -1395659582,
-            "Text": "Yep",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 311855640,
-            "Text": "Good!! I'll see u <b>behind Sauerkraut Supreme pizzeria</b> between 6:00 AM and 12:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1785409803,
-            "Text": "Need me 3x OG Kush! I'll pay <color=#46CB4F>$160</color> yeah??",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 921477238,
+            "MessageID": -893316637,
             "Text": "Yes",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 43229078,
-            "Text": "Good!! I'll see u <b>behind Sauerkraut Supreme pizzeria</b> between 6:00 AM and 12:00 PM.",
+            "MessageID": 410438755,
+            "Text": "Good!! I'll see u <b>at the north waterfront</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2006607993,
+            "Text": "U got 5x Ultra McLovin??? I'll pay <color=#46CB4F>$540</color> for it. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1054987925,
+            "Text": "Shit",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1346452931,
+            "Text": "U got 4x Granddaddy Gold??? I'll pay <color=#46CB4F>$390</color> for it. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1584257846,
+            "Text": "How about 4x Granddaddy Gold for $400?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2086636744,
+            "Text": "OK FINE! What time????",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -648077005,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -853114325,
+            "Text": "Good!! I'll see u <b>behind taco ticklers</b> between 6:00 AM and 12:00 PM.",
             "EndOfChain": true
         }
     ],

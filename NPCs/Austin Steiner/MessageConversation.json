@@ -2,51 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 11,
+    "ConversationIndex": 16,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": 826314494,
-            "Text": "Hey, can I get 4x OG Kush? I'll pay <color=#46CB4F>$180</color>",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -1407689375,
-            "Text": "Yes",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 2112680574,
-            "Text": "Great, I'll meet you <b>at the skatepark</b> between 6:00 AM and 12:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1276776345,
-            "Text": "Hey, can I get 3x OG Kush? I'll pay <color=#46CB4F>$180</color>",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": 1290693538,
-            "Text": "Deal",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1969185256,
-            "Text": "Great, I'll meet you <b>at the north waterfront</b> between 6:00 AM and 12:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -582431524,
-            "Text": "Hey, I need 3x OG Kush. I'll pay <color=#46CB4F>$180</color>. Deal?",
-            "EndOfChain": true
-        },
         {
             "Sender": 0,
             "MessageID": -1476064798,
@@ -57,6 +15,54 @@
             "Sender": 1,
             "MessageID": 1512922004,
             "Text": "Great, I'll meet you <b>at the skatepark</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2115963343,
+            "Text": "Hello, I'm after 4x Green Crack. I can pay <color=#46CB4F>$240</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -396564601,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -147012835,
+            "Text": "Great, I'll meet you <b>next to the barbershop</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 296237718,
+            "Text": "Hey, I need 3x Granddaddy Gold. I'll pay <color=#46CB4F>$290</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -270350913,
+            "Text": "How about 3x Granddaddy Gold for $300?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 567139502,
+            "Text": "Ok fine. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 96749579,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 691528362,
+            "Text": "Great, I'll meet you <b>next to the barbershop</b> between 6:00 AM and 12:00 PM.",
             "EndOfChain": true
         }
     ],

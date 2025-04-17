@@ -11,7 +11,7 @@
         "y": 5.0
     },
     "Rotation": 90,
-    "SoilID": "soil",
+    "SoilID": "longlifesoil",
     "SoilLevel": 20.0,
     "RemainingSoilUses": 1,
     "WaterLevel": 0.0,
@@ -20,19 +20,19 @@
         "DataType": "PlantData",
         "DataVersion": 0,
         "GameVersion": "0.3.4f4",
-        "SeedID": "sourdieselseed",
+        "SeedID": "greencrackseed",
         "GrowthProgress": 1.0,
         "YieldLevel": 1.0,
         "QualityLevel": 0.5,
         "ActiveBuds": [
-            2,
-            3,
-            8,
-            9,
+            15,
+            1,
             10,
-            11,
-            13,
-            14
+            8,
+            5,
+            9,
+            7,
+            12
         ]
     }
 }

@@ -2,43 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 14,
+    "ConversationIndex": 12,
     "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": 1026635158,
-            "Text": "Hey, if you got 3x OG Kush I'll pay <color=#46CB4F>$130</color> for it. Deal?",
+            "MessageID": 566082433,
+            "Text": "Hey, I need 3x Ultra McLovin. I'll pay <color=#46CB4F>$310</color>. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 466149630,
-            "Text": "Sure thing",
+            "MessageID": 1407311438,
+            "Text": "Deal",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 818054887,
-            "Text": "Alright cool, I'll meet you <b>next to Bud's bar</b> between 6:00 PM and 12:00 PM.",
+            "MessageID": -1185343886,
+            "Text": "Ok, I'll meet you <b>next to the barbershop</b> between 6:00 PM and 12:00 PM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1552375257,
-            "Text": "Hello, I'm after 3x OG Kush. I can pay <color=#46CB4F>$175</color> for it.",
+            "MessageID": -1911173726,
+            "Text": "Hey, if you got 3x Granddaddy Gold I'll pay <color=#46CB4F>$290</color> for it. Deal?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 2076416721,
-            "Text": "Yes",
+            "MessageID": -538700209,
+            "Text": "How about 3x Granddaddy Gold for $300?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -677256964,
+            "Text": "Hmm ok. What time?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1166787472,
+            "Text": "Morning",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -215879420,
-            "Text": "Ok, I'll meet you <b>at the north waterfront</b> between 6:00 AM and 12:00 PM.",
+            "MessageID": 408708459,
+            "Text": "Ok, I'll meet you <b>behind Hyland gun range</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 2112693486,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1919901179,
+            "Text": "Ok, I'll meet you <b>behind Hyland gun range</b> between 6:00 AM and 12:00 PM.",
             "EndOfChain": true
         }
     ],

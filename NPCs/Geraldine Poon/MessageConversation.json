@@ -2,25 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 12,
+    "ConversationIndex": 13,
     "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": -922555048,
-            "Text": "U got 6x OG Kush??? I'll pay <color=#46CB4F>$365</color> for it. DEAL?",
+            "MessageID": -1822943891,
+            "Text": "I'm after 4x Granddaddy Gold. I can pay <color=#46CB4F>$390</color> for it Deal??",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": -1697052500,
-            "Text": "Sure thing",
+            "MessageID": 2056588406,
+            "Text": "How about 4x Granddaddy Gold for $400?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -141456088,
+            "Text": "hmmmmm FINE. When?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1382396465,
+            "Text": "Afternoon",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1449107919,
-            "Text": "Good!! I'll see u <b>behind Thompson construction and demolition</b> between 6:00 AM and 12:00 PM.",
+            "MessageID": 977946129,
+            "Text": "Good!! I'll see u <b>behind Thompson construction and demolition</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -180662343,
+            "Text": "You got 4x Granddaddy Gold? I'll pay <color=#46CB4F>$390</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -695303843,
+            "Text": "How about 4x Granddaddy Gold for $400?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1915646897,
+            "Text": "OK FINE! What time????",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1627562338,
+            "Text": "Morning",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2107433517,
+            "Text": "Good!! I'll see u <b>behind Hyland gun range</b> between 6:00 AM and 12:00 PM.",
             "EndOfChain": true
         }
     ],

@@ -2,17 +2,17 @@
     "DataType": "CustomerData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "Dependence": 0.0,
+    "Dependence": 0.6000000238418579,
     "PurchaseableProducts": [],
     "ProductAffinities": [
-        0.3400000035762787,
+        0.7899999618530273,
         0.0,
         0.6100000143051148
     ],
-    "TimeSinceLastDealCompleted": 1034087,
-    "TimeSinceLastDealOffered": 1034087,
-    "OfferedDeals": 0,
-    "CompletedDeals": 0,
+    "TimeSinceLastDealCompleted": 1676,
+    "TimeSinceLastDealOffered": 3380,
+    "OfferedDeals": 1,
+    "CompletedDeals": 3,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -31,10 +31,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 0,
-        "time": 0
+        "elapsedDays": 29,
+        "time": 1740
     },
-    "TimeSincePlayerApproached": 1034087,
-    "TimeSinceInstantDealOffered": 1034087,
+    "TimeSincePlayerApproached": 1042441,
+    "TimeSinceInstantDealOffered": 1042441,
     "HasBeenRecommended": false
 }
