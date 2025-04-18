@@ -2,6 +2,6 @@
     "DataType": "VariableData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "Name": "MarcoGreeted",
-    "Value": "False"
+    "Name": "StanGreeted",
+    "Value": "True"
 }
