@@ -1,0 +1,29 @@
+{
+    "DataType": "MethProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Island Rhino",
+    "ID": "islandrhino",
+    "DrugType": 1,
+    "Properties": [
+        "toxic",
+        "sneaky",
+        "sedating",
+        "caloriedense",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 191,
+            "g": 214,
+            "b": 172,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 185,
+            "g": 195,
+            "b": 193,
+            "a": 255
+        }
+    }
+}

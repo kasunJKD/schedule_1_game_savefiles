@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 21,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -2064986903,
+            "Text": "I've received $231 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -899533998,
+            "Text": "I need a dead drop:\n9x Granddaddy Purple Seed",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -3432899,
+            "Text": "Working on it. Should be ready in around 4 hours 30 min",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 750170544,
+            "Text": "We've been working together for a while now, and you've proven to be quite reliable. ",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1778906633,
+            "Text": "If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -673462835,
+            "Text": "I've received $405 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 417168180,
+            "Text": "The drop is ready. You can find it on the north exterior wall of the arcade",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1134557685,
+            "Text": "You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 539794714,
+            "Text": "Agreed. I'll be in the west construction site for the next 6 hours.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1163550897,
+            "Text": "Agreed. I'll be under the west bridge for the next 6 hours.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

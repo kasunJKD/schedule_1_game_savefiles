@@ -1,0 +1,26 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "64b6991c-ee59-4b12-9068-315ab773e408",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"largestoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "0fc3eff1-af4f-471f-9c19-795996b7fdab",
+    "OriginCoordinate": {
+        "x": 0.0,
+        "y": 8.0
+    },
+    "Rotation": 90,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"shinyexpress\",\"Quantity\":9,\"Quality\":\"Poor\",\"PackagingID\":\"baggie\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"meth\",\"Quantity\":20,\"Quality\":\"Poor\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"meth\",\"Quantity\":20,\"Quality\":\"Poor\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"meth\",\"Quantity\":20,\"Quality\":\"Poor\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"\",\"Quantity\":0}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"meth\",\"Quantity\":20,\"Quality\":\"Poor\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"MethData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"meth\",\"Quantity\":20,\"Quality\":\"Poor\",\"PackagingID\":\"\"}"
+        ]
+    }
+}
