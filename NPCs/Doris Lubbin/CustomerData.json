@@ -5,14 +5,14 @@
     "Dependence": 0.0,
     "PurchaseableProducts": [],
     "ProductAffinities": [
-        0.4608926475048065,
+        0.610892653465271,
         0.15726983547210694,
         0.5780153274536133
     ],
-    "TimeSinceLastDealCompleted": 1042441,
-    "TimeSinceLastDealOffered": 1042441,
-    "OfferedDeals": 0,
-    "CompletedDeals": 0,
+    "TimeSinceLastDealCompleted": 8916,
+    "TimeSinceLastDealOffered": 9003,
+    "OfferedDeals": 1,
+    "CompletedDeals": 1,
     "IsContractOffered": false,
     "OfferedContract": {
         "Payment": 0.0,
@@ -31,10 +31,10 @@
         "IsCounterOffer": false
     },
     "OfferedContractTime": {
-        "elapsedDays": 0,
-        "time": 0
+        "elapsedDays": 34,
+        "time": 1100
     },
-    "TimeSincePlayerApproached": 1042441,
-    "TimeSinceInstantDealOffered": 1042441,
+    "TimeSincePlayerApproached": 1053509,
+    "TimeSinceInstantDealOffered": 1053509,
     "HasBeenRecommended": false
 }

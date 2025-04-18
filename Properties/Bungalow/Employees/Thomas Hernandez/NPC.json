@@ -1,0 +1,30 @@
+{
+    "DataType": "BotanistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "thomas_hernandez",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Thomas",
+    "LastName": "Hernandez",
+    "IsMale": true,
+    "AppearanceIndex": 4,
+    "Position": {
+        "x": -168.98509216308595,
+        "y": -3.9957101345062258,
+        "z": 111.9358901977539
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.667593240737915,
+        "z": 0.0,
+        "w": 0.744526207447052
+    },
+    "GUID": "6d73e119-3efe-4ab3-91ca-c39f1ee8a3b8",
+    "PaidForToday": false,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

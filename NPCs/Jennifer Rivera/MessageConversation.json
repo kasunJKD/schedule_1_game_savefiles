@@ -1,0 +1,47 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 11,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -558037356,
+            "Text": "Hey, can I get 2x Shiny Fruit? I'll pay <color=#46CB4F>$245</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1384509846,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -851408307,
+            "Text": "Great, I'll meet you <b>behind the diner</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -848804232,
+            "Text": "Hey, if you got 2x White Punch I'll pay <color=#46CB4F>$315</color> for it. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1634306763,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 208933137,
+            "Text": "Great, I'll meet you <b>behind the auto shop</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

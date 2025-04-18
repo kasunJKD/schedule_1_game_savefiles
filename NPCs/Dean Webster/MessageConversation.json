@@ -1,0 +1,65 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 0,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1283807409,
+            "Text": "Hey, I need 3x Granddaddy Gold. I'll pay <color=#46CB4F>$295</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1214471743,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1079776628,
+            "Text": "Great, I'll meet you <b>in the west construction site</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1458642977,
+            "Text": "Hey, can I get 2x Dream Punch? I'll pay <color=#46CB4F>$345</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1418304123,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1026859988,
+            "Text": "Great, I'll meet you <b>behind the western Gas Mart</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -917832495,
+            "Text": "Hey, I need 2x White Punch. I'll pay <color=#46CB4F>$355</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 705932008,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1834502882,
+            "Text": "Great, I'll meet you <b>behind the western Gas Mart</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

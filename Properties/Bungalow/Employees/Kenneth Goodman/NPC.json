@@ -1,0 +1,30 @@
+{
+    "DataType": "ChemistData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ID": "kenneth_goodman",
+    "AssignedProperty": "bungalow",
+    "FirstName": "Kenneth",
+    "LastName": "Goodman",
+    "IsMale": true,
+    "AppearanceIndex": 0,
+    "Position": {
+        "x": -168.64158630371095,
+        "y": -4.047274112701416,
+        "z": 110.67407989501953
+    },
+    "Rotation": {
+        "x": 0.0,
+        "y": 0.6941209435462952,
+        "z": 0.0,
+        "w": 0.7198584079742432
+    },
+    "GUID": "446f081f-c62d-4482-a999-49ef076eeb34",
+    "PaidForToday": false,
+    "MoveItemData": {
+        "TemplateItemJSON": "",
+        "GrabbedItemQuantity": 0,
+        "SourceGUID": "",
+        "DestinationGUID": ""
+    }
+}

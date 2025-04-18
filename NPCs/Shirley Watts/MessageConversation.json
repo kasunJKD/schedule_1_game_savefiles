@@ -2,8 +2,8 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 0,
-    "Read": false,
+    "ConversationIndex": 25,
+    "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
@@ -57,6 +57,12 @@
             "Sender": 1,
             "MessageID": -1174475805,
             "Text": "I've received $520 cash from you. Your debt is now $20",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 283520759,
+            "Text": "Your drop is ready. Grab it behind Randy's bait & tackle",
             "EndOfChain": true
         }
     ],

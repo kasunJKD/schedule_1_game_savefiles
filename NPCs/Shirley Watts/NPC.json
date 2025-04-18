@@ -4,14 +4,9 @@
     "GameVersion": "0.3.4f4",
     "ID": "shirley_watts",
     "timeSinceMeetingStart": -1,
-    "timeSinceLastMeetingEnd": 43149,
+    "timeSinceLastMeetingEnd": 54217,
     "debt": 20.0,
-    "minsUntilDeadDropReady": 167,
-    "deaddropItems": [
-        {
-            "String": "lowqualitypseudo",
-            "Int": 9
-        }
-    ],
+    "minsUntilDeadDropReady": -1,
+    "deaddropItems": [],
     "debtReminderSent": false
 }

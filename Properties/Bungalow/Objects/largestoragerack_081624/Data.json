@@ -1,0 +1,26 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "0816246d-8c07-4b9d-bcee-2f3ce2dd1854",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"largestoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "890b4b1a-139d-459d-86fe-78bc90f3adc6",
+    "OriginCoordinate": {
+        "x": 0.0,
+        "y": 6.0
+    },
+    "Rotation": 0,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"largestoragerack\",\"Quantity\":1}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"laboven\",\"Quantity\":1}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"growtent\",\"Quantity\":2}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"trashbag\",\"Quantity\":10}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"jar\",\"Quantity\":5}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"baseballbat\",\"Quantity\":1}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"goldenskateboard\",\"Quantity\":1}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"trashbag\",\"Quantity\":10}"
+        ]
+    }
+}

@@ -2,67 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 15,
+    "ConversationIndex": 16,
     "Read": true,
     "MessageHistory": [
         {
-            "Sender": 1,
-            "MessageID": 1795915403,
-            "Text": "Sick as, I'll meet you <b>next to Bud's bar</b> between 12:00 PM and 6:00 PM.",
+            "Sender": 0,
+            "MessageID": 2090867630,
+            "Text": "Yes",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -367434993,
-            "Text": "Hey dog, I need 4x OG Kush. I'll pay <color=#46CB4F>$250</color>. Deal?",
+            "MessageID": -885954342,
+            "Text": "Cheers bro, I'll meet you <b>next to the barbershop</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1161201086,
+            "Text": "Ay bro you got 2x Shiny Express? I'll pay <color=#46CB4F>$285</color> for it",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 1408406798,
-            "Text": "Sure thing",
+            "MessageID": -253959679,
+            "Text": "Yep",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -255367557,
-            "Text": "Cheers bro, I'll meet you <b>behind Sauerkraut Supreme pizzeria</b> between 12:00 PM and 6:00 PM.",
+            "MessageID": -1363885499,
+            "Text": "Cheers bro, I'll meet you <b>next to the barbershop</b> between 12:00 PM and 6:00 PM.",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 1543607727,
-            "Text": "Ay bro you got 5x Green Crack? I'll pay <color=#46CB4F>$305</color> for it",
+            "MessageID": -2072566342,
+            "Text": "Ay bro you got 2x White Punch? I'll pay <color=#46CB4F>$385</color> for it",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 773288501,
-            "Text": "Deal",
-            "EndOfChain": true
+            "MessageID": -1068026518,
+            "Text": "How about 2x White Punch for $395?",
+            "EndOfChain": false
         },
         {
             "Sender": 1,
-            "MessageID": 1562332858,
-            "Text": "Cheers bro, I'll meet you <b>behind the shipping containers near Sauerkraut Supreme</b> between 12:00 PM and 6:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": 146456091,
-            "Text": "Ay bro you got 3x Granddaddy Gold? I'll pay <color=#46CB4F>$290</color> for it",
+            "MessageID": 2017755471,
+            "Text": "Ok bro. What time?",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 825539840,
-            "Text": "Sure thing",
+            "MessageID": -877526945,
+            "Text": "Afternoon",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": -1443593192,
-            "Text": "Cheers bro, I'll meet you <b>next to Bud's bar</b> between 12:00 PM and 6:00 PM.",
+            "MessageID": -1683870190,
+            "Text": "Sick as, I'll meet you <b>at the basketball court</b> between 12:00 PM and 6:00 PM.",
             "EndOfChain": true
         }
     ],

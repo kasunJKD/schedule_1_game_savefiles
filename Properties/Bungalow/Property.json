@@ -5,8 +5,8 @@
     "PropertyCode": "bungalow",
     "IsOwned": true,
     "SwitchStates": [
-        true,
-        true
+        false,
+        false
     ],
     "ToggleableStates": []
 }

@@ -13,10 +13,10 @@
     "Rotation": 0,
     "Contents": {
         "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"ogkushseed\",\"Quantity\":4}",
             "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"sourdieselseed\",\"Quantity\":9}",
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"greencrackseed\",\"Quantity\":10}",
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"greencrackseed\",\"Quantity\":6}",
-            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"greencrackseed\",\"Quantity\":10}"
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"sourdiesel\",\"Quantity\":20,\"Quality\":\"Standard\",\"PackagingID\":\"\"}",
+            "{\"DataType\":\"WeedData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"sourdiesel\",\"Quantity\":20,\"Quality\":\"Standard\",\"PackagingID\":\"\"}"
         ]
     }
 }

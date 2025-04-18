@@ -2,55 +2,67 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 17,
+    "ConversationIndex": 20,
     "Read": true,
     "MessageHistory": [
         {
             "Sender": 1,
-            "MessageID": 1485845845,
-            "Text": "U got 1x Granddaddy Gold??? I'll pay <color=#46CB4F>$95</color> for it. DEAL?",
+            "MessageID": -1516378100,
+            "Text": "Good!! I'll see u <b>in the west construction site</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -896888594,
+            "Text": "You got 1x Death Ass? I'll pay <color=#46CB4F>$175</color> for it",
             "EndOfChain": true
         },
         {
             "Sender": 0,
-            "MessageID": 653862192,
+            "MessageID": -1314248871,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -400387703,
+            "Text": "Good!! I'll see u <b>in the west construction site</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1533299404,
+            "Text": "I NEED 2x Granddaddy Gold. I GOT <color=#46CB4F>$215</color>. DEAL?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -706063715,
             "Text": "Sure thing",
             "EndOfChain": true
         },
         {
             "Sender": 1,
-            "MessageID": 86876373,
-            "Text": "Good!! I'll see u <b>behind the pawn shop</b> between 6:00 AM and 12:00 PM.",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -497406106,
-            "Text": "You got 1x Granddaddy Gold? I'll pay <color=#46CB4F>$95</color> for it",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -2508357,
-            "Text": "How about 1x Granddaddy Gold for $105?",
-            "EndOfChain": false
-        },
-        {
-            "Sender": 1,
-            "MessageID": -126087887,
-            "Text": "Damn it fine. What time?",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 0,
-            "MessageID": -133747643,
-            "Text": "Morning",
-            "EndOfChain": true
-        },
-        {
-            "Sender": 1,
-            "MessageID": -1516378100,
+            "MessageID": 1180549463,
             "Text": "Good!! I'll see u <b>in the west construction site</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2101865798,
+            "Text": "I'm after 2x Granddaddy Gold. I can pay <color=#46CB4F>$215</color> for it Deal??",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 700554364,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -874836203,
+            "Text": "Good!! I'll see u <b>on the wharf west of the warehouse</b> between 6:00 AM and 12:00 PM.",
             "EndOfChain": true
         }
     ],

@@ -2,15 +2,9 @@
     "DataType": "MSGConversationData",
     "DataVersion": 0,
     "GameVersion": "0.3.4f4",
-    "ConversationIndex": 0,
+    "ConversationIndex": 24,
     "Read": true,
     "MessageHistory": [
-        {
-            "Sender": 1,
-            "MessageID": -1748557074,
-            "Text": "Hey boss, I've run out of product.",
-            "EndOfChain": true
-        },
         {
             "Sender": 1,
             "MessageID": -93955948,
@@ -62,6 +56,12 @@
         {
             "Sender": 1,
             "MessageID": 1672137085,
+            "Text": "Hi boss, just letting you know I'm out of product.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 613144481,
             "Text": "Hi boss, just letting you know I'm out of product.",
             "EndOfChain": true
         }
