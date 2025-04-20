@@ -1,0 +1,2338 @@
+{
+    "DataType": "ProductManagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f8",
+    "DiscoveredProducts": [
+        "ogkush",
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple",
+        "aspendeath",
+        "aspendick",
+        "aspensmegma",
+        "bananafuel",
+        "biostink",
+        "californiacookies",
+        "darkbud",
+        "darkpiss",
+        "darkslime",
+        "deathass",
+        "deathurkle",
+        "dreampunch",
+        "fatcum",
+        "fatghost",
+        "fruitycake",
+        "fruitygold",
+        "girlscoutdiesel",
+        "granddaddygold",
+        "islandrhino",
+        "lacum",
+        "laurkle",
+        "megadick",
+        "miraclecrystal",
+        "miraclepiss",
+        "nightmaremint",
+        "nightmareshart",
+        "ogballs",
+        "pinkcookies",
+        "pinkmint",
+        "pinkpunch",
+        "pinkthunderfuck",
+        "sexygold",
+        "sexygrool",
+        "shinyexpress",
+        "shinyfruit",
+        "slimysmegma",
+        "strawberrydiesel",
+        "sweetcock",
+        "sweetghost",
+        "ultragrool",
+        "ultramclovin",
+        "ultraslime",
+        "weddingass",
+        "weddingcum",
+        "weddingshart",
+        "whitedurkle",
+        "whitepunch",
+        "meth",
+        "purpledeath",
+        "whitehaze",
+        "aspendiesel",
+        "californiathunderfuck"
+    ],
+    "ListedProducts": [],
+    "ActiveMixOperation": {
+        "ProductID": "",
+        "IngredientID": ""
+    },
+    "IsMixComplete": false,
+    "MixRecipes": [
+        {
+            "Product": "sourdiesel",
+            "Mixer": "viagor",
+            "Output": "weddingass"
+        },
+        {
+            "Product": "sourdiesel",
+            "Mixer": "paracetamol",
+            "Output": "ultraslime"
+        },
+        {
+            "Product": "greencrack",
+            "Mixer": "viagor",
+            "Output": "aspendeath"
+        },
+        {
+            "Product": "greencrack",
+            "Mixer": "paracetamol",
+            "Output": "darkbud"
+        },
+        {
+            "Product": "greencrack",
+            "Mixer": "cuke",
+            "Output": "greencrack"
+        },
+        {
+            "Product": "greencrack",
+            "Mixer": "mouthwash",
+            "Output": "fatcum"
+        },
+        {
+            "Product": "greencrack",
+            "Mixer": "banana",
+            "Output": "fruitycake"
+        },
+        {
+            "Product": "fruitycake",
+            "Mixer": "paracetamol",
+            "Output": "miraclepiss"
+        },
+        {
+            "Product": "greencrack",
+            "Mixer": "donut",
+            "Output": "pinkthunderfuck"
+        },
+        {
+            "Product": "fruitycake",
+            "Mixer": "viagor",
+            "Output": "granddaddygold"
+        },
+        {
+            "Product": "granddaddypurple",
+            "Mixer": "viagor",
+            "Output": "sexygold"
+        },
+        {
+            "Product": "weddingass",
+            "Mixer": "flumedicine",
+            "Output": "fruitygold"
+        },
+        {
+            "Product": "sourdiesel",
+            "Mixer": "flumedicine",
+            "Output": "californiacookies"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "greencrack",
+            "Output": "aspensmegma"
+        },
+        {
+            "Product": "viagor",
+            "Mixer": "aspensmegma",
+            "Output": "sweetcock"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "sweetcock",
+            "Output": "whitedurkle"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "whitedurkle",
+            "Output": "ultramclovin"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "greencrack",
+            "Output": "ultragrool"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "ultragrool",
+            "Output": "slimysmegma"
+        },
+        {
+            "Product": "chili",
+            "Mixer": "slimysmegma",
+            "Output": "bananafuel"
+        },
+        {
+            "Product": "megabean",
+            "Mixer": "bananafuel",
+            "Output": "darkslime"
+        },
+        {
+            "Product": "gasoline",
+            "Mixer": "greencrack",
+            "Output": "fatghost"
+        },
+        {
+            "Product": "motoroil",
+            "Mixer": "fatghost",
+            "Output": "darkpiss"
+        },
+        {
+            "Product": "battery",
+            "Mixer": "darkpiss",
+            "Output": "sexygrool"
+        },
+        {
+            "Product": "viagor",
+            "Mixer": "sexygrool",
+            "Output": "ogballs"
+        },
+        {
+            "Product": "mouthwash",
+            "Mixer": "ogballs",
+            "Output": "girlscoutdiesel"
+        },
+        {
+            "Product": "donut",
+            "Mixer": "girlscoutdiesel",
+            "Output": "deathurkle"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "deathurkle",
+            "Output": "whitepunch"
+        },
+        {
+            "Product": "viagor",
+            "Mixer": "meth",
+            "Output": "shinyfruit"
+        },
+        {
+            "Product": "battery",
+            "Mixer": "shinyfruit",
+            "Output": "miraclecrystal"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "miraclecrystal",
+            "Output": "deathass"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "deathass",
+            "Output": "deathass"
+        },
+        {
+            "Product": "shinyfruit",
+            "Mixer": "paracetamol",
+            "Output": "shinyexpress"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "flumedicine",
+            "Output": "biostink"
+        },
+        {
+            "Product": "biostink",
+            "Mixer": "paracetamol",
+            "Output": "aspendick"
+        },
+        {
+            "Product": "aspendick",
+            "Mixer": "mouthwash",
+            "Output": "nightmaremint"
+        },
+        {
+            "Product": "nightmaremint",
+            "Mixer": "gasoline",
+            "Output": "lacum"
+        },
+        {
+            "Product": "lacum",
+            "Mixer": "donut",
+            "Output": "islandrhino"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "iodine",
+            "Output": "pinkmint"
+        },
+        {
+            "Product": "pinkmint",
+            "Mixer": "flumedicine",
+            "Output": "pinkcookies"
+        },
+        {
+            "Product": "pinkcookies",
+            "Mixer": "megabean",
+            "Output": "weddingshart"
+        },
+        {
+            "Product": "weddingshart",
+            "Mixer": "battery",
+            "Output": "megadick"
+        },
+        {
+            "Product": "megadick",
+            "Mixer": "energydrink",
+            "Output": "dreampunch"
+        },
+        {
+            "Product": "deathurkle",
+            "Mixer": "iodine",
+            "Output": "pinkpunch"
+        },
+        {
+            "Product": "meth",
+            "Mixer": "horsesemen",
+            "Output": "weddingcum"
+        },
+        {
+            "Product": "deathurkle",
+            "Mixer": "horsesemen",
+            "Output": "sweetghost"
+        },
+        {
+            "Product": "weddingcum",
+            "Mixer": "paracetamol",
+            "Output": "laurkle"
+        },
+        {
+            "Product": "whitepunch",
+            "Mixer": "iodine",
+            "Output": "strawberrydiesel"
+        },
+        {
+            "Product": "laurkle",
+            "Mixer": "gasoline",
+            "Output": "nightmareshart"
+        },
+        {
+            "Product": "addy",
+            "Mixer": "meth",
+            "Output": "purpledeath"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "purpledeath",
+            "Output": "whitehaze"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "meth",
+            "Output": "aspendiesel"
+        },
+        {
+            "Product": "viagor",
+            "Mixer": "aspendiesel",
+            "Output": "shinyexpress"
+        },
+        {
+            "Product": "viagor",
+            "Mixer": "whitehaze",
+            "Output": "californiathunderfuck"
+        },
+        {
+            "Product": "addy",
+            "Mixer": "aspendiesel",
+            "Output": "whitehaze"
+        }
+    ],
+    "ProductPrices": [
+        {
+            "String": "ogkush",
+            "Int": 45
+        },
+        {
+            "String": "sourdiesel",
+            "Int": 50
+        },
+        {
+            "String": "greencrack",
+            "Int": 50
+        },
+        {
+            "String": "granddaddypurple",
+            "Int": 50
+        },
+        {
+            "String": "meth",
+            "Int": 70
+        },
+        {
+            "String": "cocaine",
+            "Int": 150
+        },
+        {
+            "String": "aspendeath",
+            "Int": 70
+        },
+        {
+            "String": "aspendick",
+            "Int": 105
+        },
+        {
+            "String": "aspensmegma",
+            "Int": 52
+        },
+        {
+            "String": "bananafuel",
+            "Int": 69
+        },
+        {
+            "String": "biostink",
+            "Int": 88
+        },
+        {
+            "String": "californiacookies",
+            "Int": 49
+        },
+        {
+            "String": "darkbud",
+            "Int": 43
+        },
+        {
+            "String": "darkpiss",
+            "Int": 56
+        },
+        {
+            "String": "darkslime",
+            "Int": 81
+        },
+        {
+            "String": "deathass",
+            "Int": 137
+        },
+        {
+            "String": "deathurkle",
+            "Int": 104
+        },
+        {
+            "String": "dreampunch",
+            "Int": 135
+        },
+        {
+            "String": "fatcum",
+            "Int": 53
+        },
+        {
+            "String": "fatghost",
+            "Int": 41
+        },
+        {
+            "String": "fruitycake",
+            "Int": 57
+        },
+        {
+            "String": "fruitygold",
+            "Int": 65
+        },
+        {
+            "String": "girlscoutdiesel",
+            "Int": 97
+        },
+        {
+            "String": "granddaddygold",
+            "Int": 85
+        },
+        {
+            "String": "islandrhino",
+            "Int": 157
+        },
+        {
+            "String": "lacum",
+            "Int": 141
+        },
+        {
+            "String": "laurkle",
+            "Int": 123
+        },
+        {
+            "String": "megadick",
+            "Int": 141
+        },
+        {
+            "String": "miraclecrystal",
+            "Int": 130
+        },
+        {
+            "String": "miraclepiss",
+            "Int": 66
+        },
+        {
+            "String": "nightmaremint",
+            "Int": 126
+        },
+        {
+            "String": "nightmareshart",
+            "Int": 175
+        },
+        {
+            "String": "ogballs",
+            "Int": 86
+        },
+        {
+            "String": "pinkcookies",
+            "Int": 118
+        },
+        {
+            "String": "pinkmint",
+            "Int": 99
+        },
+        {
+            "String": "pinkpunch",
+            "Int": 116
+        },
+        {
+            "String": "pinkthunderfuck",
+            "Int": 52
+        },
+        {
+            "String": "sexygold",
+            "Int": 60
+        },
+        {
+            "String": "sexygrool",
+            "Int": 70
+        },
+        {
+            "String": "shinyexpress",
+            "Int": 180
+        },
+        {
+            "String": "shinyfruit",
+            "Int": 110
+        },
+        {
+            "String": "slimysmegma",
+            "Int": 55
+        },
+        {
+            "String": "strawberrydiesel",
+            "Int": 108
+        },
+        {
+            "String": "sweetcock",
+            "Int": 68
+        },
+        {
+            "String": "sweetghost",
+            "Int": 175
+        },
+        {
+            "String": "ultragrool",
+            "Int": 54
+        },
+        {
+            "String": "ultramclovin",
+            "Int": 80
+        },
+        {
+            "String": "ultraslime",
+            "Int": 55
+        },
+        {
+            "String": "weddingass",
+            "Int": 60
+        },
+        {
+            "String": "weddingcum",
+            "Int": 106
+        },
+        {
+            "String": "weddingshart",
+            "Int": 113
+        },
+        {
+            "String": "whitedurkle",
+            "Int": 66
+        },
+        {
+            "String": "whitepunch",
+            "Int": 150
+        },
+        {
+            "String": "purpledeath",
+            "Int": 101
+        },
+        {
+            "String": "whitehaze",
+            "Int": 118
+        },
+        {
+            "String": "aspendiesel",
+            "Int": 120
+        },
+        {
+            "String": "californiathunderfuck",
+            "Int": 180
+        }
+    ],
+    "FavouritedProducts": [
+        "fatghost",
+        "darkpiss",
+        "sexygrool",
+        "ogballs",
+        "girlscoutdiesel",
+        "deathurkle",
+        "sweetghost"
+    ],
+    "CreatedWeed": [
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Aspen Death",
+            "ID": "aspendeath",
+            "DrugType": 0,
+            "Properties": [
+                "energizing",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 109,
+                    "g": 146,
+                    "b": 81,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 187,
+                    "g": 189,
+                    "b": 88,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 148,
+                    "g": 167,
+                    "b": 84,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 87,
+                    "g": 116,
+                    "b": 64,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Aspen Smegma",
+            "ID": "aspensmegma",
+            "DrugType": 0,
+            "Properties": [
+                "energizing",
+                "sedating"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 109,
+                    "g": 146,
+                    "b": 81,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 116,
+                    "g": 134,
+                    "b": 100,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 112,
+                    "g": 140,
+                    "b": 90,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 87,
+                    "g": 116,
+                    "b": 64,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Banana Fuel",
+            "ID": "bananafuel",
+            "DrugType": 0,
+            "Properties": [
+                "paranoia",
+                "Euphoric",
+                "spicy",
+                "brighteyed"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 106,
+                    "g": 99,
+                    "b": 78,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 141,
+                    "g": 129,
+                    "b": 88,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 123,
+                    "g": 114,
+                    "b": 83,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 84,
+                    "g": 79,
+                    "b": 62,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "California Cookies",
+            "ID": "californiacookies",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "sedating"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 121,
+                    "g": 134,
+                    "b": 109,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 112,
+                    "g": 128,
+                    "b": 95,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Dark Bud",
+            "ID": "darkbud",
+            "DrugType": 0,
+            "Properties": [
+                "paranoia",
+                "sneaky"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 106,
+                    "g": 99,
+                    "b": 78,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 136,
+                    "g": 116,
+                    "b": 98,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 121,
+                    "g": 107,
+                    "b": 88,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 84,
+                    "g": 79,
+                    "b": 62,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Dark Piss",
+            "ID": "darkpiss",
+            "DrugType": 0,
+            "Properties": [
+                "toxic",
+                "sedating",
+                "slippery"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 83,
+                    "g": 88,
+                    "b": 95,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 104,
+                    "g": 114,
+                    "b": 88,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 93,
+                    "g": 101,
+                    "b": 91,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 66,
+                    "g": 70,
+                    "b": 76,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Dark Slime",
+            "ID": "darkslime",
+            "DrugType": 0,
+            "Properties": [
+                "paranoia",
+                "Euphoric",
+                "foggy",
+                "spicy",
+                "brighteyed"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 106,
+                    "g": 99,
+                    "b": 78,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 141,
+                    "g": 129,
+                    "b": 88,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 123,
+                    "g": 114,
+                    "b": 83,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 84,
+                    "g": 79,
+                    "b": 62,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Death Urkle",
+            "ID": "deathurkle",
+            "DrugType": 0,
+            "Properties": [
+                "toxic",
+                "sneaky",
+                "sedating",
+                "caloriedense",
+                "slippery",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 91,
+                    "g": 116,
+                    "b": 63,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 104,
+                    "g": 114,
+                    "b": 88,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 97,
+                    "g": 115,
+                    "b": 75,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 72,
+                    "g": 92,
+                    "b": 50,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Fat Cum",
+            "ID": "fatcum",
+            "DrugType": 0,
+            "Properties": [
+                "energizing",
+                "balding"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 109,
+                    "g": 146,
+                    "b": 81,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 154,
+                    "g": 168,
+                    "b": 79,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 131,
+                    "g": 157,
+                    "b": 80,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 87,
+                    "g": 116,
+                    "b": 64,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Fat Ghost",
+            "ID": "fatghost",
+            "DrugType": 0,
+            "Properties": [
+                "Euphoric",
+                "toxic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 114,
+                    "g": 120,
+                    "b": 77,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 142,
+                    "g": 149,
+                    "b": 81,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 128,
+                    "g": 134,
+                    "b": 79,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 91,
+                    "g": 96,
+                    "b": 61,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Fruity Cake",
+            "ID": "fruitycake",
+            "DrugType": 0,
+            "Properties": [
+                "gingeritis",
+                "thoughtprovoking"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 139,
+                    "g": 110,
+                    "b": 61,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 228,
+                    "g": 142,
+                    "b": 113,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 183,
+                    "g": 126,
+                    "b": 87,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 111,
+                    "g": 88,
+                    "b": 48,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Fruity Gold",
+            "ID": "fruitygold",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "sedating",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 121,
+                    "g": 134,
+                    "b": 109,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 112,
+                    "g": 128,
+                    "b": 95,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Girl Scout Diesel",
+            "ID": "girlscoutdiesel",
+            "DrugType": 0,
+            "Properties": [
+                "toxic",
+                "sedating",
+                "balding",
+                "slippery",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 91,
+                    "g": 116,
+                    "b": 63,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 104,
+                    "g": 114,
+                    "b": 88,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 97,
+                    "g": 115,
+                    "b": 75,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 72,
+                    "g": 92,
+                    "b": 50,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Granddaddy Gold",
+            "ID": "granddaddygold",
+            "DrugType": 0,
+            "Properties": [
+                "gingeritis",
+                "thoughtprovoking",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 139,
+                    "g": 110,
+                    "b": 61,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 228,
+                    "g": 142,
+                    "b": 113,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 183,
+                    "g": 126,
+                    "b": 87,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 111,
+                    "g": 88,
+                    "b": 48,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Miracle Piss",
+            "ID": "miraclepiss",
+            "DrugType": 0,
+            "Properties": [
+                "gingeritis",
+                "sneaky",
+                "thoughtprovoking"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 139,
+                    "g": 110,
+                    "b": 61,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 147,
+                    "g": 123,
+                    "b": 80,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 143,
+                    "g": 116,
+                    "b": 70,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 111,
+                    "g": 88,
+                    "b": 48,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "OG Balls",
+            "ID": "ogballs",
+            "DrugType": 0,
+            "Properties": [
+                "toxic",
+                "sedating",
+                "slippery",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 91,
+                    "g": 116,
+                    "b": 63,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 104,
+                    "g": 114,
+                    "b": 88,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 97,
+                    "g": 115,
+                    "b": 75,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 72,
+                    "g": 92,
+                    "b": 50,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Pink Punch",
+            "ID": "pinkpunch",
+            "DrugType": 0,
+            "Properties": [
+                "toxic",
+                "gingeritis",
+                "sneaky",
+                "sedating",
+                "slippery",
+                "brighteyed",
+                "jennerising",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 91,
+                    "g": 116,
+                    "b": 63,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 115,
+                    "g": 127,
+                    "b": 82,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 103,
+                    "g": 121,
+                    "b": 72,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 72,
+                    "g": 92,
+                    "b": 50,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Pink Thunderfuck",
+            "ID": "pinkthunderfuck",
+            "DrugType": 0,
+            "Properties": [
+                "energizing",
+                "caloriedense"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 109,
+                    "g": 146,
+                    "b": 81,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 153,
+                    "g": 149,
+                    "b": 118,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 131,
+                    "g": 147,
+                    "b": 99,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 87,
+                    "g": 116,
+                    "b": 64,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Sexy Gold",
+            "ID": "sexygold",
+            "DrugType": 0,
+            "Properties": [
+                "sedating",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 83,
+                    "g": 88,
+                    "b": 95,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 153,
+                    "g": 111,
+                    "b": 105,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 118,
+                    "g": 99,
+                    "b": 100,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 66,
+                    "g": 70,
+                    "b": 76,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Sexy Grool",
+            "ID": "sexygrool",
+            "DrugType": 0,
+            "Properties": [
+                "toxic",
+                "sedating",
+                "slippery",
+                "brighteyed"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 91,
+                    "g": 116,
+                    "b": 63,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 104,
+                    "g": 114,
+                    "b": 88,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 97,
+                    "g": 115,
+                    "b": 75,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 72,
+                    "g": 92,
+                    "b": 50,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Slimy Smegma",
+            "ID": "slimysmegma",
+            "DrugType": 0,
+            "Properties": [
+                "paranoia",
+                "sneaky",
+                "athletic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 106,
+                    "g": 99,
+                    "b": 78,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 136,
+                    "g": 116,
+                    "b": 98,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 121,
+                    "g": 107,
+                    "b": 88,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 84,
+                    "g": 79,
+                    "b": 62,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Strawberry Diesel",
+            "ID": "strawberrydiesel",
+            "DrugType": 0,
+            "Properties": [
+                "munchies",
+                "toxic",
+                "gingeritis",
+                "sneaky",
+                "athletic",
+                "slippery",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 106,
+                    "g": 101,
+                    "b": 72,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 131,
+                    "g": 124,
+                    "b": 75,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 118,
+                    "g": 112,
+                    "b": 73,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 84,
+                    "g": 80,
+                    "b": 57,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Sweet Cock",
+            "ID": "sweetcock",
+            "DrugType": 0,
+            "Properties": [
+                "energizing",
+                "sedating",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 109,
+                    "g": 146,
+                    "b": 81,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 116,
+                    "g": 134,
+                    "b": 100,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 112,
+                    "g": 140,
+                    "b": 90,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 87,
+                    "g": 116,
+                    "b": 64,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Sweet Ghost",
+            "ID": "sweetghost",
+            "DrugType": 0,
+            "Properties": [
+                "toxic",
+                "sneaky",
+                "sedating",
+                "caloriedense",
+                "slippery",
+                "brighteyed",
+                "tropicthunder",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 91,
+                    "g": 116,
+                    "b": 63,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 115,
+                    "g": 127,
+                    "b": 82,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 103,
+                    "g": 121,
+                    "b": 72,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 72,
+                    "g": 92,
+                    "b": 50,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Ultra Grool",
+            "ID": "ultragrool",
+            "DrugType": 0,
+            "Properties": [
+                "energizing",
+                "athletic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 109,
+                    "g": 146,
+                    "b": 81,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 129,
+                    "g": 184,
+                    "b": 141,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 119,
+                    "g": 165,
+                    "b": 111,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 87,
+                    "g": 116,
+                    "b": 64,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Ultra McLovin",
+            "ID": "ultramclovin",
+            "DrugType": 0,
+            "Properties": [
+                "paranoia",
+                "sneaky",
+                "athletic",
+                "antigravity"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 106,
+                    "g": 99,
+                    "b": 78,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 136,
+                    "g": 116,
+                    "b": 98,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 121,
+                    "g": 107,
+                    "b": 88,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 84,
+                    "g": 79,
+                    "b": 62,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Ultra Slime",
+            "ID": "ultraslime",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "sneaky"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 132,
+                    "g": 147,
+                    "b": 103,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 117,
+                    "g": 135,
+                    "b": 92,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Wedding Ass",
+            "ID": "weddingass",
+            "DrugType": 0,
+            "Properties": [
+                "refreshing",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 103,
+                    "g": 123,
+                    "b": 82,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 196,
+                    "g": 189,
+                    "b": 105,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 149,
+                    "g": 156,
+                    "b": 93,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 82,
+                    "g": 98,
+                    "b": 65,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "White Durkle",
+            "ID": "whitedurkle",
+            "DrugType": 0,
+            "Properties": [
+                "munchies",
+                "energizing",
+                "sneaky",
+                "athletic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 106,
+                    "g": 101,
+                    "b": 72,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 143,
+                    "g": 144,
+                    "b": 87,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 124,
+                    "g": 122,
+                    "b": 79,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 84,
+                    "g": 80,
+                    "b": 57,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "WeedProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "White Punch",
+            "ID": "whitepunch",
+            "DrugType": 0,
+            "Properties": [
+                "munchies",
+                "toxic",
+                "sneaky",
+                "caloriedense",
+                "athletic",
+                "slippery",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 106,
+                    "g": 101,
+                    "b": 72,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 131,
+                    "g": 124,
+                    "b": 75,
+                    "a": 255
+                },
+                "LeafColor": {
+                    "r": 118,
+                    "g": 112,
+                    "b": 73,
+                    "a": 255
+                },
+                "StemColor": {
+                    "r": 84,
+                    "g": 80,
+                    "b": 57,
+                    "a": 255
+                }
+            }
+        }
+    ],
+    "CreatedMeth": [
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Aspen Dick",
+            "ID": "aspendick",
+            "DrugType": 1,
+            "Properties": [
+                "sneaky",
+                "sedating"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 180,
+                    "g": 177,
+                    "b": 214,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 191,
+                    "g": 189,
+                    "b": 208,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Bio Stink",
+            "ID": "biostink",
+            "DrugType": 1,
+            "Properties": [
+                "sedating"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 180,
+                    "g": 177,
+                    "b": 214,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 162,
+                    "g": 157,
+                    "b": 204,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Death Ass",
+            "ID": "deathass",
+            "DrugType": 1,
+            "Properties": [
+                "sneaky",
+                "athletic",
+                "brighteyed"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 202,
+                    "g": 202,
+                    "b": 202,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 174,
+                    "g": 199,
+                    "b": 215,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Dream Punch",
+            "ID": "dreampunch",
+            "DrugType": 1,
+            "Properties": [
+                "paranoia",
+                "munchies",
+                "laxative",
+                "athletic",
+                "brighteyed"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 243,
+                    "g": 223,
+                    "b": 229,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 243,
+                    "g": 224,
+                    "b": 225,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Island Rhino",
+            "ID": "islandrhino",
+            "DrugType": 1,
+            "Properties": [
+                "toxic",
+                "sneaky",
+                "sedating",
+                "caloriedense",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 191,
+                    "g": 214,
+                    "b": 172,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 185,
+                    "g": 195,
+                    "b": 193,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "LA Cum",
+            "ID": "lacum",
+            "DrugType": 1,
+            "Properties": [
+                "toxic",
+                "sedating",
+                "balding",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 180,
+                    "g": 177,
+                    "b": 214,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 185,
+                    "g": 195,
+                    "b": 193,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "LA Urkle",
+            "ID": "laurkle",
+            "DrugType": 1,
+            "Properties": [
+                "sneaky",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 202,
+                    "g": 202,
+                    "b": 202,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 189,
+                    "g": 170,
+                    "b": 110,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Mega Dick",
+            "ID": "megadick",
+            "DrugType": 1,
+            "Properties": [
+                "paranoia",
+                "sedating",
+                "foggy",
+                "brighteyed"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 243,
+                    "g": 223,
+                    "b": 229,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 206,
+                    "g": 184,
+                    "b": 209,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Miracle Crystal",
+            "ID": "miraclecrystal",
+            "DrugType": 1,
+            "Properties": [
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 255,
+                    "g": 178,
+                    "b": 107,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 229,
+                    "g": 213,
+                    "b": 181,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Nightmare Mint",
+            "ID": "nightmaremint",
+            "DrugType": 1,
+            "Properties": [
+                "sneaky",
+                "sedating",
+                "balding"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 202,
+                    "g": 202,
+                    "b": 202,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 191,
+                    "g": 189,
+                    "b": 208,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Nightmare Shart",
+            "ID": "nightmareshart",
+            "DrugType": 1,
+            "Properties": [
+                "toxic",
+                "tropicthunder",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 191,
+                    "g": 214,
+                    "b": 172,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 191,
+                    "g": 175,
+                    "b": 99,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Pink Cookies",
+            "ID": "pinkcookies",
+            "DrugType": 1,
+            "Properties": [
+                "sedating",
+                "jennerising"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 180,
+                    "g": 177,
+                    "b": 214,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 180,
+                    "g": 131,
+                    "b": 212,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Pink Mint",
+            "ID": "pinkmint",
+            "DrugType": 1,
+            "Properties": [
+                "jennerising"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 255,
+                    "g": 163,
+                    "b": 251,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 255,
+                    "g": 198,
+                    "b": 252,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Shiny Express",
+            "ID": "shinyexpress",
+            "DrugType": 1,
+            "Properties": [
+                "sneaky",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 202,
+                    "g": 202,
+                    "b": 202,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 202,
+                    "g": 163,
+                    "b": 128,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Shiny Fruit",
+            "ID": "shinyfruit",
+            "DrugType": 1,
+            "Properties": [
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 255,
+                    "g": 178,
+                    "b": 107,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 255,
+                    "g": 207,
+                    "b": 163,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Wedding Cum",
+            "ID": "weddingcum",
+            "DrugType": 1,
+            "Properties": [
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 255,
+                    "g": 218,
+                    "b": 97,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 255,
+                    "g": 236,
+                    "b": 176,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Wedding Shart",
+            "ID": "weddingshart",
+            "DrugType": 1,
+            "Properties": [
+                "paranoia",
+                "sedating",
+                "foggy"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 243,
+                    "g": 223,
+                    "b": 229,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 206,
+                    "g": 184,
+                    "b": 209,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Purple Death",
+            "ID": "purpledeath",
+            "DrugType": 1,
+            "Properties": [
+                "thoughtprovoking"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 255,
+                    "g": 179,
+                    "b": 213,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 255,
+                    "g": 207,
+                    "b": 229,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "White Haze",
+            "ID": "whitehaze",
+            "DrugType": 1,
+            "Properties": [
+                "sneaky",
+                "thoughtprovoking"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 202,
+                    "g": 202,
+                    "b": 202,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 202,
+                    "g": 163,
+                    "b": 181,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Aspen Diesel",
+            "ID": "aspendiesel",
+            "DrugType": 1,
+            "Properties": [
+                "sneaky"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 202,
+                    "g": 202,
+                    "b": 202,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 189,
+                    "g": 189,
+                    "b": 189,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "California Thunderfuck",
+            "ID": "californiathunderfuck",
+            "DrugType": 1,
+            "Properties": [
+                "sneaky",
+                "thoughtprovoking",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 202,
+                    "g": 202,
+                    "b": 202,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 202,
+                    "g": 163,
+                    "b": 181,
+                    "a": 255
+                }
+            }
+        }
+    ],
+    "CreatedCocaine": []
+}

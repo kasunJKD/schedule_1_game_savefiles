@@ -1,0 +1,37 @@
+{
+    "DataType": "WorldStorageEntitiesData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f8",
+    "Entities": [
+        {
+            "DataType": "WorldStorageEntityData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "GUID": "5eec8f1e-7a2e-4869-b490-f793b6975738",
+            "Contents": {
+                "Items": [
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"electrictrimmers\",\"Quantity\":1}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"\",\"Quantity\":0}"
+                ]
+            }
+        },
+        {
+            "DataType": "WorldStorageEntityData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "GUID": "e1fa79d5-6065-473a-8e19-2257b9d70cbc",
+            "Contents": {
+                "Items": [
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"greencrackseed\",\"Quantity\":10}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"\",\"Quantity\":0}",
+                    "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f8\",\"ID\":\"\",\"Quantity\":0}"
+                ]
+            }
+        }
+    ]
+}

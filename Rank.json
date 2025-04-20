@@ -1,9 +1,9 @@
 {
     "DataType": "RankData",
     "DataVersion": 0,
-    "GameVersion": "0.3.4f4",
+    "GameVersion": "0.3.4f8",
     "Rank": 4,
-    "Tier": 2,
-    "XP": 930,
-    "TotalXP": 12205
+    "Tier": 4,
+    "XP": 820,
+    "TotalXP": 14145
 }
