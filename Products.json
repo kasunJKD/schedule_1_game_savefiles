@@ -8,40 +8,25 @@
         "greencrack",
         "granddaddypurple",
         "aspendeath",
-        "aspendick",
         "aspensmegma",
         "bananafuel",
-        "biostink",
         "californiacookies",
         "darkbud",
         "darkpiss",
         "darkslime",
-        "deathass",
         "deathurkle",
-        "dreampunch",
         "fatcum",
         "fatghost",
         "fruitycake",
         "fruitygold",
         "girlscoutdiesel",
         "granddaddygold",
-        "islandrhino",
-        "lacum",
-        "laurkle",
-        "megadick",
-        "miraclecrystal",
         "miraclepiss",
-        "nightmaremint",
-        "nightmareshart",
         "ogballs",
-        "pinkcookies",
-        "pinkmint",
         "pinkpunch",
         "pinkthunderfuck",
         "sexygold",
         "sexygrool",
-        "shinyexpress",
-        "shinyfruit",
         "slimysmegma",
         "strawberrydiesel",
         "sweetcock",
@@ -50,15 +35,30 @@
         "ultramclovin",
         "ultraslime",
         "weddingass",
-        "weddingcum",
-        "weddingshart",
         "whitedurkle",
         "whitepunch",
-        "meth",
+        "aspendick",
+        "biostink",
+        "deathass",
+        "dreampunch",
+        "islandrhino",
+        "lacum",
+        "laurkle",
+        "megadick",
+        "miraclecrystal",
+        "nightmaremint",
+        "nightmareshart",
+        "pinkcookies",
+        "pinkmint",
+        "shinyexpress",
+        "shinyfruit",
+        "weddingcum",
+        "weddingshart",
         "purpledeath",
         "whitehaze",
         "aspendiesel",
-        "californiathunderfuck"
+        "californiathunderfuck",
+        "meth"
     ],
     "ListedProducts": [],
     "ActiveMixOperation": {
@@ -68,278 +68,278 @@
     "IsMixComplete": false,
     "MixRecipes": [
         {
-            "Product": "sourdiesel",
-            "Mixer": "viagor",
+            "Product": "viagor",
+            "Mixer": "sourdiesel",
             "Output": "weddingass"
         },
         {
-            "Product": "sourdiesel",
-            "Mixer": "paracetamol",
+            "Product": "paracetamol",
+            "Mixer": "sourdiesel",
             "Output": "ultraslime"
         },
         {
-            "Product": "greencrack",
-            "Mixer": "viagor",
+            "Product": "viagor",
+            "Mixer": "greencrack",
             "Output": "aspendeath"
         },
         {
-            "Product": "greencrack",
-            "Mixer": "paracetamol",
+            "Product": "paracetamol",
+            "Mixer": "greencrack",
             "Output": "darkbud"
         },
         {
-            "Product": "greencrack",
-            "Mixer": "cuke",
+            "Product": "cuke",
+            "Mixer": "greencrack",
             "Output": "greencrack"
         },
         {
-            "Product": "greencrack",
-            "Mixer": "mouthwash",
+            "Product": "mouthwash",
+            "Mixer": "greencrack",
             "Output": "fatcum"
         },
         {
-            "Product": "greencrack",
-            "Mixer": "banana",
+            "Product": "banana",
+            "Mixer": "greencrack",
             "Output": "fruitycake"
         },
         {
-            "Product": "fruitycake",
-            "Mixer": "paracetamol",
+            "Product": "paracetamol",
+            "Mixer": "fruitycake",
             "Output": "miraclepiss"
         },
         {
-            "Product": "greencrack",
-            "Mixer": "donut",
+            "Product": "donut",
+            "Mixer": "greencrack",
             "Output": "pinkthunderfuck"
         },
         {
-            "Product": "fruitycake",
-            "Mixer": "viagor",
+            "Product": "viagor",
+            "Mixer": "fruitycake",
             "Output": "granddaddygold"
         },
         {
-            "Product": "granddaddypurple",
-            "Mixer": "viagor",
+            "Product": "viagor",
+            "Mixer": "granddaddypurple",
             "Output": "sexygold"
         },
         {
-            "Product": "weddingass",
-            "Mixer": "flumedicine",
+            "Product": "flumedicine",
+            "Mixer": "weddingass",
             "Output": "fruitygold"
         },
         {
-            "Product": "sourdiesel",
-            "Mixer": "flumedicine",
+            "Product": "flumedicine",
+            "Mixer": "sourdiesel",
             "Output": "californiacookies"
         },
         {
-            "Product": "flumedicine",
-            "Mixer": "greencrack",
+            "Product": "greencrack",
+            "Mixer": "flumedicine",
             "Output": "aspensmegma"
         },
         {
-            "Product": "viagor",
-            "Mixer": "aspensmegma",
+            "Product": "aspensmegma",
+            "Mixer": "viagor",
             "Output": "sweetcock"
         },
         {
-            "Product": "energydrink",
-            "Mixer": "sweetcock",
+            "Product": "sweetcock",
+            "Mixer": "energydrink",
             "Output": "whitedurkle"
         },
         {
-            "Product": "paracetamol",
-            "Mixer": "whitedurkle",
+            "Product": "whitedurkle",
+            "Mixer": "paracetamol",
             "Output": "ultramclovin"
         },
         {
-            "Product": "energydrink",
-            "Mixer": "greencrack",
+            "Product": "greencrack",
+            "Mixer": "energydrink",
             "Output": "ultragrool"
         },
         {
-            "Product": "paracetamol",
-            "Mixer": "ultragrool",
+            "Product": "ultragrool",
+            "Mixer": "paracetamol",
             "Output": "slimysmegma"
         },
         {
-            "Product": "chili",
-            "Mixer": "slimysmegma",
+            "Product": "slimysmegma",
+            "Mixer": "chili",
             "Output": "bananafuel"
         },
         {
-            "Product": "megabean",
-            "Mixer": "bananafuel",
+            "Product": "bananafuel",
+            "Mixer": "megabean",
             "Output": "darkslime"
         },
         {
-            "Product": "gasoline",
-            "Mixer": "greencrack",
+            "Product": "greencrack",
+            "Mixer": "gasoline",
             "Output": "fatghost"
         },
         {
-            "Product": "motoroil",
-            "Mixer": "fatghost",
+            "Product": "fatghost",
+            "Mixer": "motoroil",
             "Output": "darkpiss"
         },
         {
-            "Product": "battery",
-            "Mixer": "darkpiss",
+            "Product": "darkpiss",
+            "Mixer": "battery",
             "Output": "sexygrool"
         },
         {
-            "Product": "viagor",
-            "Mixer": "sexygrool",
+            "Product": "sexygrool",
+            "Mixer": "viagor",
             "Output": "ogballs"
         },
         {
-            "Product": "mouthwash",
-            "Mixer": "ogballs",
+            "Product": "ogballs",
+            "Mixer": "mouthwash",
             "Output": "girlscoutdiesel"
         },
         {
-            "Product": "donut",
-            "Mixer": "girlscoutdiesel",
+            "Product": "girlscoutdiesel",
+            "Mixer": "donut",
             "Output": "deathurkle"
         },
         {
-            "Product": "energydrink",
-            "Mixer": "deathurkle",
+            "Product": "deathurkle",
+            "Mixer": "energydrink",
             "Output": "whitepunch"
         },
         {
-            "Product": "viagor",
-            "Mixer": "meth",
+            "Product": "meth",
+            "Mixer": "viagor",
             "Output": "shinyfruit"
         },
         {
-            "Product": "battery",
-            "Mixer": "shinyfruit",
+            "Product": "shinyfruit",
+            "Mixer": "battery",
             "Output": "miraclecrystal"
         },
         {
-            "Product": "energydrink",
-            "Mixer": "miraclecrystal",
+            "Product": "miraclecrystal",
+            "Mixer": "energydrink",
+            "Output": "deathass"
+        },
+        {
+            "Product": "deathass",
+            "Mixer": "paracetamol",
             "Output": "deathass"
         },
         {
             "Product": "paracetamol",
-            "Mixer": "deathass",
-            "Output": "deathass"
-        },
-        {
-            "Product": "shinyfruit",
-            "Mixer": "paracetamol",
+            "Mixer": "shinyfruit",
             "Output": "shinyexpress"
         },
         {
-            "Product": "meth",
-            "Mixer": "flumedicine",
+            "Product": "flumedicine",
+            "Mixer": "meth",
             "Output": "biostink"
         },
         {
-            "Product": "biostink",
-            "Mixer": "paracetamol",
+            "Product": "paracetamol",
+            "Mixer": "biostink",
             "Output": "aspendick"
         },
         {
-            "Product": "aspendick",
-            "Mixer": "mouthwash",
+            "Product": "mouthwash",
+            "Mixer": "aspendick",
             "Output": "nightmaremint"
         },
         {
-            "Product": "nightmaremint",
-            "Mixer": "gasoline",
+            "Product": "gasoline",
+            "Mixer": "nightmaremint",
             "Output": "lacum"
         },
         {
-            "Product": "lacum",
-            "Mixer": "donut",
+            "Product": "donut",
+            "Mixer": "lacum",
             "Output": "islandrhino"
         },
         {
-            "Product": "meth",
-            "Mixer": "iodine",
+            "Product": "iodine",
+            "Mixer": "meth",
             "Output": "pinkmint"
         },
         {
-            "Product": "pinkmint",
-            "Mixer": "flumedicine",
+            "Product": "flumedicine",
+            "Mixer": "pinkmint",
             "Output": "pinkcookies"
         },
         {
-            "Product": "pinkcookies",
-            "Mixer": "megabean",
+            "Product": "megabean",
+            "Mixer": "pinkcookies",
             "Output": "weddingshart"
         },
         {
-            "Product": "weddingshart",
-            "Mixer": "battery",
+            "Product": "battery",
+            "Mixer": "weddingshart",
             "Output": "megadick"
         },
         {
-            "Product": "megadick",
-            "Mixer": "energydrink",
+            "Product": "energydrink",
+            "Mixer": "megadick",
             "Output": "dreampunch"
         },
         {
-            "Product": "deathurkle",
-            "Mixer": "iodine",
+            "Product": "iodine",
+            "Mixer": "deathurkle",
             "Output": "pinkpunch"
         },
         {
-            "Product": "meth",
-            "Mixer": "horsesemen",
+            "Product": "horsesemen",
+            "Mixer": "meth",
             "Output": "weddingcum"
         },
         {
-            "Product": "deathurkle",
-            "Mixer": "horsesemen",
+            "Product": "horsesemen",
+            "Mixer": "deathurkle",
             "Output": "sweetghost"
         },
         {
-            "Product": "weddingcum",
-            "Mixer": "paracetamol",
+            "Product": "paracetamol",
+            "Mixer": "weddingcum",
             "Output": "laurkle"
         },
         {
-            "Product": "whitepunch",
-            "Mixer": "iodine",
+            "Product": "iodine",
+            "Mixer": "whitepunch",
             "Output": "strawberrydiesel"
         },
         {
-            "Product": "laurkle",
-            "Mixer": "gasoline",
+            "Product": "gasoline",
+            "Mixer": "laurkle",
             "Output": "nightmareshart"
         },
         {
-            "Product": "addy",
-            "Mixer": "meth",
+            "Product": "meth",
+            "Mixer": "addy",
             "Output": "purpledeath"
         },
         {
-            "Product": "paracetamol",
-            "Mixer": "purpledeath",
+            "Product": "purpledeath",
+            "Mixer": "paracetamol",
             "Output": "whitehaze"
         },
         {
-            "Product": "paracetamol",
-            "Mixer": "meth",
+            "Product": "meth",
+            "Mixer": "paracetamol",
             "Output": "aspendiesel"
         },
         {
-            "Product": "viagor",
-            "Mixer": "aspendiesel",
+            "Product": "aspendiesel",
+            "Mixer": "viagor",
             "Output": "shinyexpress"
         },
         {
-            "Product": "viagor",
-            "Mixer": "whitehaze",
+            "Product": "whitehaze",
+            "Mixer": "viagor",
             "Output": "californiathunderfuck"
         },
         {
-            "Product": "addy",
-            "Mixer": "aspendiesel",
+            "Product": "aspendiesel",
+            "Mixer": "addy",
             "Output": "whitehaze"
         }
     ],
@@ -373,20 +373,12 @@
             "Int": 70
         },
         {
-            "String": "aspendick",
-            "Int": 105
-        },
-        {
             "String": "aspensmegma",
             "Int": 52
         },
         {
             "String": "bananafuel",
             "Int": 69
-        },
-        {
-            "String": "biostink",
-            "Int": 88
         },
         {
             "String": "californiacookies",
@@ -405,16 +397,8 @@
             "Int": 81
         },
         {
-            "String": "deathass",
-            "Int": 137
-        },
-        {
             "String": "deathurkle",
             "Int": 104
-        },
-        {
-            "String": "dreampunch",
-            "Int": 135
         },
         {
             "String": "fatcum",
@@ -441,6 +425,86 @@
             "Int": 85
         },
         {
+            "String": "miraclepiss",
+            "Int": 66
+        },
+        {
+            "String": "ogballs",
+            "Int": 86
+        },
+        {
+            "String": "pinkpunch",
+            "Int": 116
+        },
+        {
+            "String": "pinkthunderfuck",
+            "Int": 52
+        },
+        {
+            "String": "sexygold",
+            "Int": 60
+        },
+        {
+            "String": "sexygrool",
+            "Int": 70
+        },
+        {
+            "String": "slimysmegma",
+            "Int": 55
+        },
+        {
+            "String": "strawberrydiesel",
+            "Int": 108
+        },
+        {
+            "String": "sweetcock",
+            "Int": 68
+        },
+        {
+            "String": "sweetghost",
+            "Int": 225
+        },
+        {
+            "String": "ultragrool",
+            "Int": 54
+        },
+        {
+            "String": "ultramclovin",
+            "Int": 80
+        },
+        {
+            "String": "ultraslime",
+            "Int": 55
+        },
+        {
+            "String": "weddingass",
+            "Int": 60
+        },
+        {
+            "String": "whitedurkle",
+            "Int": 66
+        },
+        {
+            "String": "whitepunch",
+            "Int": 150
+        },
+        {
+            "String": "aspendick",
+            "Int": 105
+        },
+        {
+            "String": "biostink",
+            "Int": 88
+        },
+        {
+            "String": "deathass",
+            "Int": 137
+        },
+        {
+            "String": "dreampunch",
+            "Int": 135
+        },
+        {
             "String": "islandrhino",
             "Int": 157
         },
@@ -461,20 +525,12 @@
             "Int": 130
         },
         {
-            "String": "miraclepiss",
-            "Int": 66
-        },
-        {
             "String": "nightmaremint",
             "Int": 126
         },
         {
             "String": "nightmareshart",
             "Int": 175
-        },
-        {
-            "String": "ogballs",
-            "Int": 86
         },
         {
             "String": "pinkcookies",
@@ -485,60 +541,12 @@
             "Int": 99
         },
         {
-            "String": "pinkpunch",
-            "Int": 116
-        },
-        {
-            "String": "pinkthunderfuck",
-            "Int": 52
-        },
-        {
-            "String": "sexygold",
-            "Int": 60
-        },
-        {
-            "String": "sexygrool",
-            "Int": 70
-        },
-        {
             "String": "shinyexpress",
-            "Int": 180
+            "Int": 145
         },
         {
             "String": "shinyfruit",
             "Int": 110
-        },
-        {
-            "String": "slimysmegma",
-            "Int": 55
-        },
-        {
-            "String": "strawberrydiesel",
-            "Int": 108
-        },
-        {
-            "String": "sweetcock",
-            "Int": 68
-        },
-        {
-            "String": "sweetghost",
-            "Int": 175
-        },
-        {
-            "String": "ultragrool",
-            "Int": 54
-        },
-        {
-            "String": "ultramclovin",
-            "Int": 80
-        },
-        {
-            "String": "ultraslime",
-            "Int": 55
-        },
-        {
-            "String": "weddingass",
-            "Int": 60
         },
         {
             "String": "weddingcum",
@@ -547,14 +555,6 @@
         {
             "String": "weddingshart",
             "Int": 113
-        },
-        {
-            "String": "whitedurkle",
-            "Int": 66
-        },
-        {
-            "String": "whitepunch",
-            "Int": 150
         },
         {
             "String": "purpledeath",
