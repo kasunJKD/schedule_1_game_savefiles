@@ -178,7 +178,46 @@
         "icecreamcake",
         "weddingbud",
         "nightmaresmegma",
-        "meth"
+        "stinkyqueef",
+        "girlscoutcock",
+        "nightmareurkle",
+        "slimystink",
+        "sweetballs",
+        "ogfruit",
+        "dreamcrystal",
+        "dreamfruit",
+        "pinkqueef",
+        "bananadiesel",
+        "slimysplooge",
+        "icecreamassblaster",
+        "pinkghost",
+        "strawberrygrool",
+        "gorillafruit",
+        "sexyballs",
+        "californiabud",
+        "strawberryassblaster",
+        "gorillagold",
+        "fruitypiss",
+        "extremeexpress",
+        "dreamcum",
+        "purpleexpress",
+        "ultrasmegma",
+        "gorillacheese",
+        "extremeballs",
+        "biothunderfuck",
+        "gorillagrool",
+        "ultracake",
+        "thickcrack",
+        "stinkycookies",
+        "strawberrycrack",
+        "ultrapuke",
+        "weddingdick",
+        "deathstink",
+        "islandshart",
+        "meth",
+        "cocaine",
+        "aspencake",
+        "supermint"
     ],
     "ListedProducts": [],
     "ActiveMixOperation": {
@@ -1116,6 +1155,201 @@
             "Product": "deathurkle",
             "Mixer": "addy",
             "Output": "gorillacookies"
+        },
+        {
+            "Product": "cocaine",
+            "Mixer": "gasoline",
+            "Output": "stinkyqueef"
+        },
+        {
+            "Product": "stinkyqueef",
+            "Mixer": "motoroil",
+            "Output": "girlscoutcock"
+        },
+        {
+            "Product": "girlscoutcock",
+            "Mixer": "battery",
+            "Output": "nightmareurkle"
+        },
+        {
+            "Product": "nightmareurkle",
+            "Mixer": "viagor",
+            "Output": "slimystink"
+        },
+        {
+            "Product": "slimystink",
+            "Mixer": "mouthwash",
+            "Output": "sweetballs"
+        },
+        {
+            "Product": "sweetballs",
+            "Mixer": "donut",
+            "Output": "ogfruit"
+        },
+        {
+            "Product": "ogfruit",
+            "Mixer": "horsesemen",
+            "Output": "dreamcrystal"
+        },
+        {
+            "Product": "dreamcrystal",
+            "Mixer": "addy",
+            "Output": "dreamfruit"
+        },
+        {
+            "Product": "dreamfruit",
+            "Mixer": "flumedicine",
+            "Output": "pinkqueef"
+        },
+        {
+            "Product": "pinkqueef",
+            "Mixer": "iodine",
+            "Output": "bananadiesel"
+        },
+        {
+            "Product": "bananadiesel",
+            "Mixer": "gasoline",
+            "Output": "slimysplooge"
+        },
+        {
+            "Product": "slimysplooge",
+            "Mixer": "flumedicine",
+            "Output": "icecreamassblaster"
+        },
+        {
+            "Product": "icecreamassblaster",
+            "Mixer": "banana",
+            "Output": "pinkghost"
+        },
+        {
+            "Product": "pinkghost",
+            "Mixer": "horsesemen",
+            "Output": "strawberrygrool"
+        },
+        {
+            "Product": "strawberrygrool",
+            "Mixer": "iodine",
+            "Output": "gorillafruit"
+        },
+        {
+            "Product": "gorillafruit",
+            "Mixer": "megabean",
+            "Output": "sexyballs"
+        },
+        {
+            "Product": "sexyballs",
+            "Mixer": "mouthwash",
+            "Output": "californiabud"
+        },
+        {
+            "Product": "californiabud",
+            "Mixer": "horsesemen",
+            "Output": "strawberryassblaster"
+        },
+        {
+            "Product": "strawberryassblaster",
+            "Mixer": "addy",
+            "Output": "strawberryassblaster"
+        },
+        {
+            "Product": "nightmareurkle",
+            "Mixer": "energydrink",
+            "Output": "gorillagold"
+        },
+        {
+            "Product": "nightmareurkle",
+            "Mixer": "mouthwash",
+            "Output": "fruitypiss"
+        },
+        {
+            "Product": "fruitypiss",
+            "Mixer": "paracetamol",
+            "Output": "extremeexpress"
+        },
+        {
+            "Product": "gorillagold",
+            "Mixer": "flumedicine",
+            "Output": "dreamcum"
+        },
+        {
+            "Product": "dreamcum",
+            "Mixer": "mouthwash",
+            "Output": "purpleexpress"
+        },
+        {
+            "Product": "extremeexpress",
+            "Mixer": "horsesemen",
+            "Output": "ultrasmegma"
+        },
+        {
+            "Product": "ultrasmegma",
+            "Mixer": "addy",
+            "Output": "gorillacheese"
+        },
+        {
+            "Product": "purpleexpress",
+            "Mixer": "energydrink",
+            "Output": "extremeballs"
+        },
+        {
+            "Product": "extremeballs",
+            "Mixer": "horsesemen",
+            "Output": "biothunderfuck"
+        },
+        {
+            "Product": "biothunderfuck",
+            "Mixer": "iodine",
+            "Output": "gorillagrool"
+        },
+        {
+            "Product": "gorillagrool",
+            "Mixer": "megabean",
+            "Output": "ultracake"
+        },
+        {
+            "Product": "ultracake",
+            "Mixer": "banana",
+            "Output": "thickcrack"
+        },
+        {
+            "Product": "thickcrack",
+            "Mixer": "iodine",
+            "Output": "stinkycookies"
+        },
+        {
+            "Product": "stinkycookies",
+            "Mixer": "chili",
+            "Output": "strawberrycrack"
+        },
+        {
+            "Product": "strawberrycrack",
+            "Mixer": "gasoline",
+            "Output": "ultrapuke"
+        },
+        {
+            "Product": "ultrapuke",
+            "Mixer": "horsesemen",
+            "Output": "weddingdick"
+        },
+        {
+            "Product": "weddingdick",
+            "Mixer": "addy",
+            "Output": "deathstink"
+        },
+        {
+            "Product": "deathstink",
+            "Mixer": "battery",
+            "Output": "islandshart"
+        },
+        {
+            "Product": "cuke",
+            "Mixer": "meth",
+            "Output": "aspencake"
+        },
+        {
+            "Product": "banana",
+            "Mixer": "aspencake",
+            "Output": "supermint"
         }
     ],
     "ProductPrices": [
@@ -1826,6 +2060,158 @@
         {
             "String": "nightmaresmegma",
             "Int": 293
+        },
+        {
+            "String": "stinkyqueef",
+            "Int": 150
+        },
+        {
+            "String": "girlscoutcock",
+            "Int": 201
+        },
+        {
+            "String": "nightmareurkle",
+            "Int": 261
+        },
+        {
+            "String": "slimystink",
+            "Int": 330
+        },
+        {
+            "String": "sweetballs",
+            "Int": 375
+        },
+        {
+            "String": "ogfruit",
+            "Int": 408
+        },
+        {
+            "String": "dreamcrystal",
+            "Int": 486
+        },
+        {
+            "String": "dreamfruit",
+            "Int": 610
+        },
+        {
+            "String": "pinkqueef",
+            "Int": 459
+        },
+        {
+            "String": "bananadiesel",
+            "Int": 504
+        },
+        {
+            "String": "slimysplooge",
+            "Int": 474
+        },
+        {
+            "String": "icecreamassblaster",
+            "Int": 438
+        },
+        {
+            "String": "pinkghost",
+            "Int": 519
+        },
+        {
+            "String": "strawberrygrool",
+            "Int": 444
+        },
+        {
+            "String": "gorillafruit",
+            "Int": 507
+        },
+        {
+            "String": "sexyballs",
+            "Int": 402
+        },
+        {
+            "String": "californiabud",
+            "Int": 468
+        },
+        {
+            "String": "strawberryassblaster",
+            "Int": 393
+        },
+        {
+            "String": "gorillagold",
+            "Int": 309
+        },
+        {
+            "String": "fruitypiss",
+            "Int": 306
+        },
+        {
+            "String": "extremeexpress",
+            "Int": 411
+        },
+        {
+            "String": "dreamcum",
+            "Int": 318
+        },
+        {
+            "String": "purpleexpress",
+            "Int": 363
+        },
+        {
+            "String": "ultrasmegma",
+            "Int": 489
+        },
+        {
+            "String": "gorillacheese",
+            "Int": 552
+        },
+        {
+            "String": "extremeballs",
+            "Int": 411
+        },
+        {
+            "String": "biothunderfuck",
+            "Int": 489
+        },
+        {
+            "String": "gorillagrool",
+            "Int": 525
+        },
+        {
+            "String": "ultracake",
+            "Int": 405
+        },
+        {
+            "String": "thickcrack",
+            "Int": 369
+        },
+        {
+            "String": "stinkycookies",
+            "Int": 414
+        },
+        {
+            "String": "strawberrycrack",
+            "Int": 474
+        },
+        {
+            "String": "ultrapuke",
+            "Int": 507
+        },
+        {
+            "String": "weddingdick",
+            "Int": 516
+        },
+        {
+            "String": "deathstink",
+            "Int": 507
+        },
+        {
+            "String": "islandshart",
+            "Int": 459
+        },
+        {
+            "String": "aspencake",
+            "Int": 85
+        },
+        {
+            "String": "supermint",
+            "Int": 115
         }
     ],
     "FavouritedProducts": [
@@ -1852,7 +2238,23 @@
         "superdeath",
         "icecreamqueef",
         "megahaze",
-        "afghancrack"
+        "afghancrack",
+        "stinkyqueef",
+        "girlscoutcock",
+        "nightmareurkle",
+        "slimystink",
+        "sweetballs",
+        "ogfruit",
+        "dreamcrystal",
+        "dreamfruit",
+        "bananamint",
+        "ultrafuel",
+        "tokyocheese",
+        "aspenpiss",
+        "fruitycrack",
+        "bigass",
+        "slimypuke",
+        "girlscoutcum"
     ],
     "CreatedWeed": [
         {
@@ -7703,7 +8105,1163 @@
                     "a": 255
                 }
             }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Aspen Cake",
+            "ID": "aspencake",
+            "DrugType": 1,
+            "Properties": [
+                "energizing"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 214,
+                    "g": 255,
+                    "b": 196,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 204,
+                    "g": 255,
+                    "b": 182,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "MethProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Super Mint",
+            "ID": "supermint",
+            "DrugType": 1,
+            "Properties": [
+                "gingeritis",
+                "thoughtprovoking"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 255,
+                    "g": 207,
+                    "b": 169,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 255,
+                    "g": 169,
+                    "b": 148,
+                    "a": 255
+                }
+            }
         }
     ],
-    "CreatedCocaine": []
+    "CreatedCocaine": [
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Stinky Queef",
+            "ID": "stinkyqueef",
+            "DrugType": 2,
+            "Properties": [
+                "toxic"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 213,
+                    "g": 228,
+                    "b": 201,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 175,
+                    "g": 204,
+                    "b": 152,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Girl Scout Cock",
+            "ID": "girlscoutcock",
+            "DrugType": 2,
+            "Properties": [
+                "toxic",
+                "slippery"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 213,
+                    "g": 228,
+                    "b": 201,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 178,
+                    "g": 214,
+                    "b": 193,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Nightmare Urkle",
+            "ID": "nightmareurkle",
+            "DrugType": 2,
+            "Properties": [
+                "toxic",
+                "slippery",
+                "brighteyed"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 213,
+                    "g": 228,
+                    "b": 201,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 178,
+                    "g": 214,
+                    "b": 193,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Slimy Stink",
+            "ID": "slimystink",
+            "DrugType": 2,
+            "Properties": [
+                "toxic",
+                "slippery",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 213,
+                    "g": 228,
+                    "b": 201,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 178,
+                    "g": 214,
+                    "b": 193,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Sweet Balls",
+            "ID": "sweetballs",
+            "DrugType": 2,
+            "Properties": [
+                "toxic",
+                "balding",
+                "slippery",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 213,
+                    "g": 228,
+                    "b": 201,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 178,
+                    "g": 214,
+                    "b": 193,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "OG Fruit",
+            "ID": "ogfruit",
+            "DrugType": 2,
+            "Properties": [
+                "toxic",
+                "sneaky",
+                "caloriedense",
+                "slippery",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 213,
+                    "g": 228,
+                    "b": 201,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 196,
+                    "g": 208,
+                    "b": 187,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Dream Crystal",
+            "ID": "dreamcrystal",
+            "DrugType": 2,
+            "Properties": [
+                "toxic",
+                "sneaky",
+                "caloriedense",
+                "slippery",
+                "brighteyed",
+                "tropicthunder",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 213,
+                    "g": 228,
+                    "b": 201,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 196,
+                    "g": 208,
+                    "b": 187,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Dream Fruit",
+            "ID": "dreamfruit",
+            "DrugType": 2,
+            "Properties": [
+                "toxic",
+                "sneaky",
+                "caloriedense",
+                "slippery",
+                "brighteyed",
+                "thoughtprovoking",
+                "tropicthunder",
+                "electrifying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 213,
+                    "g": 228,
+                    "b": 201,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 196,
+                    "g": 208,
+                    "b": 187,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Pink Queef",
+            "ID": "pinkqueef",
+            "DrugType": 2,
+            "Properties": [
+                "refreshing",
+                "toxic",
+                "gingeritis",
+                "sneaky",
+                "caloriedense",
+                "slippery",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 244,
+                    "g": 255,
+                    "b": 241,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 207,
+                    "g": 234,
+                    "b": 193,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Banana Diesel",
+            "ID": "bananadiesel",
+            "DrugType": 2,
+            "Properties": [
+                "toxic",
+                "gingeritis",
+                "sneaky",
+                "caloriedense",
+                "slippery",
+                "brighteyed",
+                "thoughtprovoking",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 213,
+                    "g": 228,
+                    "b": 201,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 223,
+                    "g": 211,
+                    "b": 171,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Slimy Splooge",
+            "ID": "slimysplooge",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "toxic",
+                "sneaky",
+                "caloriedense",
+                "slippery",
+                "brighteyed",
+                "thoughtprovoking",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 196,
+                    "g": 221,
+                    "b": 172,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Ice Cream Assblaster",
+            "ID": "icecreamassblaster",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "toxic",
+                "gingeritis",
+                "sneaky",
+                "caloriedense",
+                "slippery",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 196,
+                    "g": 221,
+                    "b": 172,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Pink Ghost",
+            "ID": "pinkghost",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "gingeritis",
+                "sneaky",
+                "caloriedense",
+                "slippery",
+                "brighteyed",
+                "tropicthunder",
+                "antigravity"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 228,
+                    "g": 217,
+                    "b": 171,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Strawberry Grool",
+            "ID": "strawberrygrool",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "calming",
+                "refreshing",
+                "sneaky",
+                "caloriedense",
+                "slippery",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 234,
+                    "g": 248,
+                    "b": 224,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Gorilla Fruit",
+            "ID": "gorillafruit",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "gingeritis",
+                "sneaky",
+                "balding",
+                "slippery",
+                "brighteyed",
+                "thoughtprovoking",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 202,
+                    "g": 215,
+                    "b": 187,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Sexy Balls",
+            "ID": "sexyballs",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "calming",
+                "toxic",
+                "gingeritis",
+                "energizing",
+                "balding",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 241,
+                    "g": 243,
+                    "b": 224,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "California Bud",
+            "ID": "californiabud",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "toxic",
+                "gingeritis",
+                "energizing",
+                "balding",
+                "brighteyed",
+                "tropicthunder",
+                "antigravity"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 196,
+                    "g": 221,
+                    "b": 172,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Strawberry Assblaster",
+            "ID": "strawberryassblaster",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "calming",
+                "refreshing",
+                "toxic",
+                "energizing",
+                "balding",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 234,
+                    "g": 248,
+                    "b": 224,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Gorilla Gold",
+            "ID": "gorillagold",
+            "DrugType": 2,
+            "Properties": [
+                "toxic",
+                "athletic",
+                "slippery",
+                "brighteyed"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 213,
+                    "g": 228,
+                    "b": 201,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 178,
+                    "g": 214,
+                    "b": 193,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Fruity Piss",
+            "ID": "fruitypiss",
+            "DrugType": 2,
+            "Properties": [
+                "toxic",
+                "balding",
+                "slippery",
+                "brighteyed"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 213,
+                    "g": 228,
+                    "b": 201,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 178,
+                    "g": 214,
+                    "b": 193,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Extreme Express",
+            "ID": "extremeexpress",
+            "DrugType": 2,
+            "Properties": [
+                "sneaky",
+                "balding",
+                "slippery",
+                "brighteyed",
+                "tropicthunder"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 220,
+                    "g": 220,
+                    "b": 220,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 198,
+                    "g": 182,
+                    "b": 153,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Dream Cum",
+            "ID": "dreamcum",
+            "DrugType": 2,
+            "Properties": [
+                "munchies",
+                "toxic",
+                "sedating",
+                "slippery",
+                "brighteyed"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 248,
+                    "g": 236,
+                    "b": 233,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 212,
+                    "g": 205,
+                    "b": 180,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Purple Express",
+            "ID": "purpleexpress",
+            "DrugType": 2,
+            "Properties": [
+                "munchies",
+                "toxic",
+                "sedating",
+                "balding",
+                "slippery",
+                "brighteyed"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 248,
+                    "g": 236,
+                    "b": 233,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 212,
+                    "g": 205,
+                    "b": 180,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Ultra Smegma",
+            "ID": "ultrasmegma",
+            "DrugType": 2,
+            "Properties": [
+                "sneaky",
+                "balding",
+                "slippery",
+                "brighteyed",
+                "tropicthunder",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 220,
+                    "g": 220,
+                    "b": 220,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 198,
+                    "g": 182,
+                    "b": 153,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Gorilla Cheese",
+            "ID": "gorillacheese",
+            "DrugType": 2,
+            "Properties": [
+                "sneaky",
+                "balding",
+                "slippery",
+                "brighteyed",
+                "thoughtprovoking",
+                "tropicthunder",
+                "electrifying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 220,
+                    "g": 220,
+                    "b": 220,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 198,
+                    "g": 182,
+                    "b": 153,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Extreme Balls",
+            "ID": "extremeballs",
+            "DrugType": 2,
+            "Properties": [
+                "munchies",
+                "toxic",
+                "sedating",
+                "balding",
+                "athletic",
+                "slippery",
+                "brighteyed"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 248,
+                    "g": 236,
+                    "b": 233,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 212,
+                    "g": 205,
+                    "b": 180,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Bio Thunderfuck",
+            "ID": "biothunderfuck",
+            "DrugType": 2,
+            "Properties": [
+                "munchies",
+                "toxic",
+                "sedating",
+                "balding",
+                "athletic",
+                "slippery",
+                "brighteyed",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 248,
+                    "g": 236,
+                    "b": 233,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 212,
+                    "g": 205,
+                    "b": 180,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Gorilla Grool",
+            "ID": "gorillagrool",
+            "DrugType": 2,
+            "Properties": [
+                "munchies",
+                "sneaky",
+                "sedating",
+                "balding",
+                "athletic",
+                "slippery",
+                "brighteyed",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 248,
+                    "g": 236,
+                    "b": 233,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 217,
+                    "g": 199,
+                    "b": 195,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Ultra Cake",
+            "ID": "ultracake",
+            "DrugType": 2,
+            "Properties": [
+                "calming",
+                "munchies",
+                "toxic",
+                "sedating",
+                "laxative",
+                "balding",
+                "brighteyed",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 248,
+                    "g": 236,
+                    "b": 233,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 249,
+                    "g": 235,
+                    "b": 228,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Thick Crack",
+            "ID": "thickcrack",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "munchies",
+                "refreshing",
+                "sneaky",
+                "sedating",
+                "laxative",
+                "balding",
+                "brighteyed"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 248,
+                    "g": 236,
+                    "b": 233,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 236,
+                    "g": 233,
+                    "b": 217,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Stinky Cookies",
+            "ID": "stinkycookies",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "munchies",
+                "sneaky",
+                "sedating",
+                "laxative",
+                "balding",
+                "brighteyed",
+                "thoughtprovoking"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 236,
+                    "g": 233,
+                    "b": 217,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Strawberry Crack",
+            "ID": "strawberrycrack",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "toxic",
+                "sneaky",
+                "sedating",
+                "balding",
+                "brighteyed",
+                "thoughtprovoking",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 196,
+                    "g": 221,
+                    "b": 172,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Ultra Puke",
+            "ID": "ultrapuke",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "toxic",
+                "sedating",
+                "balding",
+                "brighteyed",
+                "thoughtprovoking",
+                "tropicthunder",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 196,
+                    "g": 221,
+                    "b": 172,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Wedding Dick",
+            "ID": "weddingdick",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "toxic",
+                "sedating",
+                "balding",
+                "brighteyed",
+                "tropicthunder",
+                "electrifying",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 196,
+                    "g": 221,
+                    "b": 172,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Death Stink",
+            "ID": "deathstink",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "toxic",
+                "gingeritis",
+                "balding",
+                "brighteyed",
+                "tropicthunder",
+                "electrifying",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 196,
+                    "g": 221,
+                    "b": 172,
+                    "a": 255
+                }
+            }
+        },
+        {
+            "DataType": "CocaineProductData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.4f8",
+            "Name": "Island Shart",
+            "ID": "islandshart",
+            "DrugType": 2,
+            "Properties": [
+                "smelly",
+                "Euphoric",
+                "toxic",
+                "gingeritis",
+                "balding",
+                "brighteyed",
+                "tropicthunder",
+                "giraffying"
+            ],
+            "AppearanceSettings": {
+                "MainColor": {
+                    "r": 237,
+                    "g": 246,
+                    "b": 228,
+                    "a": 255
+                },
+                "SecondaryColor": {
+                    "r": 241,
+                    "g": 246,
+                    "b": 220,
+                    "a": 255
+                }
+            }
+        }
+    ]
 }
